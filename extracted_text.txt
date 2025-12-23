@@ -1,0 +1,3076 @@
+
+============================================================
+PAGE 1
+============================================================
+
+BEAR VALLEY COMMUNITY HEALTHCA
+41870 GARSTIN DR
+BIG BEAR LAKE
+CA 92315
+SERVICE
+EXPECT
+DATE
+CITIZENSHIP
+one
+ER
+6/30/24
+EMERGENCY ROOM* OUTPATIENT RECORE
+PATIENT
+NUMBER
+‘TYPE
+PATIENT
+NAME
+AGE |
+BIRTHDATE
+‘M/S |
+DATE OF SERVI
+TIME
+CLERK INIT.
+ee
+3 |
+BEGLE PETER
+87} 03/19/1937 | M
+sw
+6/30/24
+17336
+Jss
+ADDRESS
+-
+ADDRESS
+-
+LINE
+2
+CITY
+ATE
+tIP
+CODE
+‘TELEPHONE
+PO BOX 5!554
+FAWNSKIN
+92333
+909-800-5237
+PATIENT
+SSAN
+NOTIFY IN CASE
+OF
+EMERGENCY
+-
+NAME
+RELATIONSHIP
+‘ADDRESS
+‘TELEPHONE
+BEGLE PETER
+E
+SON
+619-253-5324
+INSURANCE
+COMPANY
+CONTRACT
+OR
+GROUP
+NUMBER
+DATE
+PLACE
+SR HERITAGE/VICTOR VALLEY IPA
+-
+73658492
+6/30/24 |
+Other Accident
+TIME
+17:00
+GUARANTOR
+NAME
+GUARANTOR
+ADDRESS
+CITY
+ZIP
+CODE
+GUAR.
+TELEPHONE
+BEGLE PETER
+PO BOX
+554
+FAWNSKIN
+92333
+909-800-5237
+GUARANTOR EMPLOYER
+GUARANTOR OCCUPATION
+GUAR.
+EMPLOYER
+ADDRESS
+CUAR.
+EPL TELEPHONE
+PREV.
+SERVICE
+PREV.
+SERV.
+DATE
+‘If MINOR
+-
+PARENT
+NAME
+MED.
+REC.
+ATTENDING/2ND PHYSICIAN
+10273680
+3/29/24
+123464
+RILEY HOYE/
+=]
+.
+TH.
+PHY.
+TH.
+z.v.
+1D.
+-R.
+C
+GES
+X-RAY
+LAB
+RESP
+‘EKG
+DRUGS
+SUPPLIES
+OTHER
+‘M.D.
+E.R.
+RM |
+TOTAL DUE
+SROCTION FETATE, GOLTEE OFPAGS, AASTGRGA
+OFTWGRARGE
+BOTINE
+1
+‘The
+unders ire
+has been informed of¢!
+"y treatment
+cons:
+pone
+ar
+aa
+for the
+above
+named petient, and cof treatment
+and procedures will beeee
+by physicians,
+neabers
+of
+house staff and
+esployees of the
+he
+to aeresult
+tat dation is
+Pee
+for ay
+treatment
+wocedures.
+The undersigned has read
+the
+above authorizet ion and unde:
+the sae
+and certifies
+that
+no Quarantee or assurance
+t
+RS
+sieosany
+toopttal beseeee ences
+esetite,tjery Sonetits
+dos Oo5 tieetlity
+Of a’tbird
+part
+able
+by
+ty, for the
+above
+patient,
+toWospital
+unless 1pay the
+tis full
+1 Tiee
+hereny
+suthrise’Sree
+offoepital* to furnish froniisrecords
+20,inforastion
+requsced
+fythe bere
+sentoad (asutece comeaiee
+thSomest
+ioeekthaBet
+tetauntfs fallll
+at
+appoint
+the "Controller*
+of Hospital as
+my law
+ful
+attorney
+to endorse
+for
+me any checl
+paysbl Dt RD tenie
+benefits or claims collected
+under the
+above assignment
+and tepacle ay credit
+balance te aay other
+account Imay
+ove said hospital
+SIGNED
+SIGNED
+mare
+TIME
+PATIENT
+GUARANTOR
+EF COMPLAINT (1f Accident State How,
+When,
+and Where)
+ADVANCED DIRECTIVE
+PELVIC PAIN
+POST TC
+=
+NURSE’S
+SIGNATURE
+(RN OR
+LPN)
+LAB DATA
+(Including X-Rays,
+EKGs,
+etc.)
+PHYSICIAN'S
+REPORT
+DIAGNOSTS:
+TREATMENT :
+CONDITION
+ON DISC
+mr |
+STABLE
+| =xprrep
+INSTRUCTIONS
+TO PATIENT:
+warianes
+M.D.
+hh
+oFoO
+M.D.
+PATIENT'S
+SIGNATURE
+ON
+DISCHARGE
+‘DATE ~TIME OF DISC.
+PHYSICIAN'S SIGNATURE
+BY SIGNING Wee I CERTIFY THAT I
+‘TRE FOLLOW-UP
+UNDERSTAND
+INSTROCTIONS RECEIVED
+BY MEIN WRITING,
+WHICH WERE EXPLAINED
+TO ME.
+
+============================================================
+PAGE 2
+============================================================
+
+velSYSTEM
+6/30/2024 9:52 PM
+EMERGENCY DEPARTMENT
+VISIT OVERVIEW
+BearValley Community Health District, Big BearLake CA
+This is apreliminary document and is subject to change.
+Patient:
+BEGLE, PETER
+MedRec #:
+123464
+{Isolation Status:
+Age | DOB / Sex: 87 yr, 03/19/1937, M
+HIS Visit ID: 10279723
+Adv Directive:
+No
+PAST MEDICAL HISTORY / PROBLEMS
+*
+Contusion
+Dizziness
+e
+Fall
+Glaucoma
+Hypercholesterolemia
+Muscle Strain, Lower Extremity
+Neuropathy
+Prostate Cancer
+Weakness
+PAST SURGICAL HISTORY
+¢
+Hip Prosthesis
+e
+Hip Surgery
+SOCIAL HISTORY
+*
+Smoking status: no
+* Alcohol use: no
+Drug use: no
+infectious dz exposure: no
+Reports abuse: no
+* Self-harm assessment: no risk
+* Fall assessment: no
+Nutritional assessment: no deficits
+*
+Functional assessment: no impairment identified
+[)
+Indicates typed, keypad and/or cut & pasied entry
+BEGLE, PETER
+6/30/2024 5:36 PM
+=©MRN: 123464
+HIS Visit ID: 10279723
+Nurse Summary Data
+ED Arrival:
+17:36 06/30/2024
+Ethnicity:
+Language:
+|Diagnosis:
+CHIEF COMPLAINT
+SOCIAL HISTORY
+¢ MOTOR VEHICLE COLLISION.
+*
+Learning needs: no barriers
+*
+Recent travel: no
+ALLERGIES
+* NKDA
+HOME MEDICATIONS
+*
+None
+MEASUREMENTS
+Height
+5ft4 in
+162.5.om
+;
+si
+Weight
+143.3 Ib
+65.0 kg
+BMI
+24.6 kg/m2
+ED COURSE
+MEDICATIONS GIVEN IN EMERGENCY DEPARTMENT
+18:31 06/30/24
+ANCEF [IVPB] (CEFAZOLIN SODIUM) 2 gm 50
+mU/hr IVPB in site #1 left forearm
+18:37 06/30/24
+TDAP [IM] 0.5 mLIM
+19:50 06/30/24
+—Xylocaine Viscous * 10 * Topical
+19:51 06/30/24
+LIDOCAINE 1% WITH EPINEPHRINE
+[INJECTION] 20 mL Injection
+21:21 06/30/24
+GABAPENTIN [PO] 300 mg PO
+IV SITE INFORMATION
+17:46 06/30/24
+Site #1 left forearm, 18g.
+AK
+REASSESSMENT (most recent)
+* 17:49 06/30/2024
+RESPIRATORY: Respirations not labored.
+SKIN: Skin is warm and dry.
+VITAL SIGNS
+Vital
+Time
+FIRST
+Time
+LAST
+Temp
+17:46 06/30/24
+98
+17:46 06/30/24
+98
+BP
+17:46 06/30/24
+160/80
+17:46 06/30/24
+160/80
+HR
+17:46 06/30/24
+64
+17:46 06/30/24
+64
+Page 1of 3
+
+============================================================
+PAGE 3
+============================================================
+
+velSYSTEM
+EMERGENCY DEPARTMENT
+VISIT OVERVIEW
+BearValley Community Health District, Big BearLake CA
+6/30/2024 9:52 PM
+This is a preliminary document and is subject to change.
+PROCEDURES
+*
+Wound Repair
+CT ABD/PELw IV Cont - Done
+CT C-Spine wo IV Cont - Done
+[) Indicates typed, keypad and/or cut &pasted entry
+BEGLE, PETER
+6/30/2024 5:36 PM
+MRN: 123464
+‘HIS Visit ID: 10279723
+Nurse Summary Data
+Patient:
+BEGLE, PETER
+Med Rec #: 123464
+|!solation Status:
+Age / DOB/ Sex: 87 yr, 03/19/1937, M
+HIS Visit ID: 10279723
+Adv Directive:
+No
+ED Arrival:
+17:36 06/30/2024
+{Ethnicity:
+Language:
+Diagnosis:
+VITAL SIGNS
+ABNORMAL LAB RESULTS
+Vital
+Time
+FIRST
+Time
+LAST
+* CBC wDiff
+,
+:
+RBC: 4.43K/uL (L)
+RR
+17:46 06/30/24
+19
+17:46 06/30/24
+19
+MCH: 32 1pg (H)
+O2Sat
+17:4606/30/24
+94
+17:46 06/30/24
+94
+%NEUT: 77% (H)
+Pain
+17:46 06/30/24
+1
+17:46 06/30/24
+1
+LYMPH: 16% (L)
+* CMP
+CHLORIDE: 108mEq/L (H)
+ANION GAP: 10mEg/L (L)
+BUN: 27mg/dL (H)
+Lipase
+LIPASE: 386U/L (H)
+LABS PENDING IMPORT
+.
+* APTT
+LABS / STUDIES
+* BB Type& Screen
+LABS / STUDIES ORDERED
+* CBC w Diff
+* APTT - Done
+* Chest 1V Port
+* BB Type &Screen -
+* CMP
+* CBCw
+Diff - Done
+* CT ABD/PEL w IV Cont
+* Chest 1V Port - Done
+* CT C-Spine wo IV Cont
+* CMP- Done
+* CT Head wo IV Cont
+* CT L-Spine wo IV Cont
+* CT Head wo IV Cont - Done
+©Femur R 2V
+* CTL-Spine wo IV Cont - Done
+* Hand R 3V
+* Femur R 2V - Done
+* Hip Limited 1-2V Right
+* Hand R 3V - Done
+* Lactic Acid
+*
+Hip emniteed
+1-2V Right - Done
+* Lipase
+* Lactic Acid (Lab) - Done
+* Pelvis AP
+* Lipase - Done
+a
+*
+Pelvis AP- Done
+¢ Prothrombin Time (PT)
+* Prothrombin Time (PT) - Done
+* Urinalysis
+*
+Urinalysis - Ack
+* Wrist 3+V Right
+* Wrist 3+V Right - Done
+ABNORMAL LAB RESULTS
+¢ APTT
+PTT: 24.00 (L)
+Page2of3
+
+============================================================
+PAGE 4
+============================================================
+
+velSYSTEM
+EMERGENCY DEPARTMENT
+VISIT OVERVIEW
+BearValley Community Health District, Big Bear Lake CA
+6/30/2024 9:52 PM
+This is a preliminary document and is subject to change.
+Patient:
+BEGLE, PETER
+Med Rec #: 123464
+Isolation Status:
+Age / DOB / Sex: 87 yr, 03/19/1937, M
+HIS Visit ID: 10279723
+Adv Directive: No
+EO Arrival:
+17:36 06/30/2024
+Ethnicity:
+Language:
+Diagnosis:
+CLINICAL IMPRESSION
+©[1. MOTOR VEHICLE ACCIDENT, ACUTE
+3. LS COMPRESSION, ACUTE
+4. RIGHT ILIACUS HEMATOMA, ACUTE
+5. RIGHT GLUTEAL STRAIN HEMATOMA]
+{] Indicates typed.
+keypad and/or cut & pasted entry
+BEGLE. PETER
+6/30/2024 5:36
+PM)
+MRN:
+123464
+‘HIS Visit ID: 10279723
+Nurse Summary Data
+2. RIGHT COMMINUTED ILIAC WING FRACTURE
+Page 3of3
+
+============================================================
+PAGE 5
+============================================================
+
+Physician Clinical Report
+Bear Valley Community Health District
+Emergency Department
+41870 Garstin Drive, Big Bear Lake, CA 92315 909-866-6501
+Patient: BEGLE, PETER
+MRN: 123464
+Acct#: 10279723
+Sex: M
+DOB: 03/19/1937
+Age: 87y
+Arrival: 06/30/2024 17:36
+Departure:
+Disposition: Transfer
+Weight:65 kg. Height/Length:64 inches. BMI:24.6
+*This is a preliminary document and is subject to change
+Time Seen: 17:52 06/30/2024.
+Arrived- By ambulance.
+Historian- patient.
+Disposition decision: 20:58 06/30/2024.
+HISTORY OF PRESENT ILLNESS
+Chief Complaint: MOTOR VEHICLE COLLISION.
+The injury occurred just prior to arrival. Occurred
+ona
+street.
+The patient complains of mild pain.
+No blow to the head, neck pain or loss of consciousness.
+Mechanism details: Patient was driving the vehicle and was wearingalap belt.
+Impact was on the
+front of the vehicle. The air bag deployed. The crash involved two vehicles and resulted in moderate
+damage to the patient's vehicle and accident involved a moderate impact velocity and estimated
+speed of thecollision: 35 mph.
+Additional history -
+( Peter is a 87 yo male who presents to the ED via EMS after being a restrained
+driver during a MVC. Patient was travelling approximately 35 mph when he struck another car head
+on. Airbags deployed and he was extricated from the car by EMS due toR
+hip pain. Patient denies
+LOC or hitting his head and can recall the event. Patient states the skin on his right hand was torn
+from the steering wheel. Patient denies back pain, headache, SOB, numbness/tingling of extremities
+or other joint pains.).
+REVIEW OF SYSTEMS
+All pertinent positives and negatives in HPI. All other systems reviewed and are negative.
+PAST HISTORY
+Peripheral Neuropathy
+Glaucoma.
+Medications:
+None.
+Allergies:
+Patient: BEGLE, PETER
+MRN: 123464
+VisitID: 10279723
+909-866-6501
+87y,M
+Physician Clinical Report
+Bear Valley Community Health District
+41870 Garstin Drive, Big Bear Lake, CA 92315
+Registration Date/Time: 06/30/2024 17:36
+
+============================================================
+PAGE 6
+============================================================
+
+GLE,
+PETI
+MR#12:
+Visit# 102797:
+Physician Cli
+Repot
+of
+NKDA.
+SOCIAL HISTORY
+Never smoker.
+No alcohol use or drug use. No recent travel.
+ADDITIONAL NOTES
+The nursing notes have been reviewed.
+PHYSICAL EXAM
+Vital Signs: 06/30/2024 17:46 BP: 160/80. MAP: 106. HR: 64. RR: 19. O2 saturation: 94%. Temp:
+98.0 F.
+Have been reviewed.
+Hypertensive.
+Appearance: Alert.
+Oriented X3. No acute distress.
+Head: Head non-tender.
+No swelling of head.
+Eyes: Pupils equal, round and reactive to light.
+EOM intact.
+ENT: No dental injury.
+Pharynx normal.
+Neck: Painless ROM.
+Non-tender.
+CVS: Heart sounds normal.
+Pulses normal.
+Respiratory: Painless inspiration.
+Breath sounds normal. Chest nontender.
+Abdomen: No visible injury.
+Soft and nontender.
+No mass.
+Back: No tenderness.
+ROM normal. No vertebral point tenderness.
+Skin: Skin warm and dry.
+(Superficial abrasion on L elbow andL knee. Deep laceration with exposed
+tendons on the anterior R hand.).
+Extremities: Mild bony tenderness present inthe right hip.
+Left elbow: small abrasion with controlled
+bleeding.
+Right hand: deep 4.0 cm laceration with controlled bleeding.
+Pelvis stable.
+Right hip.
+Limited ROM secondary to pain.
+Left knee: small abrasion with controlled bleeding.
+No lower
+extremity edema.
+(Full passive ROM ofR
+hip. 4/5 strength in R hip. Sensation intact in extremities.).
+Gait: Gait not tested due to pain.
+Neuro: Oriented X 3. No motor deficit. No sensory deficit.
+PROGRESS AND PROCEDURES
+Laceration Repair: Time: 20:21 06/30/2024.
+Location: (right hand). Time-out completed immediately
+before the procedure.
+Length: 3 cm.
+Complexity: complex (requiring extensive undermining) and
+simple (local anesthesia used and sutured).
+Wound depth/shape- subcutaneous, irregular and with multiple flaps, with avulsion and involving
+fascia and muscle. Wound is clean.
+Distal neuro/vascular/tendon status normal. Sensory, motor and
+vascular deficit present distally. Tendon examined. No ligament or tendon injury or tendon deficit or
+laceration.
+Local and topical anesthesia provided using 2% lidocaine.
+Prepped with Betadine.
+Wound explored and irrigated extensively with normal saline.
+Closure of superficial layer: interrupted
+4-0 nylon (11 sutures). Steri-strips used.
+Post-procedure: he is stable and there are no complications.
+Bleeding is controlled and neuro-vascular status is intact distal to the wound.
+Dressing applied.
+Tetanus immunization given.
+Estimated blood loss: 3 mL.
+( Wound Repaired by NP Kelly Gora).
+Course of Care: 87-year-old male with history of glaucoma, hyper cholesterolemia and peripheral
+neuropathy currently on gabapentin presents emergency department with right-sided hip pain and
+lower back pain after motor vehicle accident.
+This patient was in multi-vehicle motor vehicle accident.
+Patient was restrained driver airbags deployed. Traveling approximately 30 miles an hour.
+Front
+impact.
+Full recall of event.
+Patient was assisted at the scene by 1st responders out of his vehicle.
+Patient did ambulate briefly at the scene. EMS provided transport.
+Upon arrival patient's vital signs
+were reviewed his vital signs are interpreted as within normal limits for age.
+His primary survey was
+BEGLE, PETER
+06/30/2024 17:36 _
+MR# 123464
+Visit# 10279723
+Physician Clinical Report
+2of3
+
+============================================================
+PAGE 7
+============================================================
+
+EGLE,
+PETER
+06):
+4 17:
+#
+Visit# 102797:
+Physician
+Clinical
+Report
+3of3
+unremarkable.
+Secondary survey was remarkable for right-sided hip pain limited right hip and
+movement and range of motion due to pain. And lumbar spine tenderness to palpation in the midline.
+He was also found to have a right dorsal hand laceration and skin tear on secondary survey.
+This
+patient had no evidence of head or neck trauma.
+He denied any neck pain. No other extremity
+injuries. No reported chest pain or shortness of breath to suggest acute chest injury. The patient's
+portable chest x-ray was without acute pathology.
+Portable chest x-ray without acute pathology
+including rib fracture or pneumothorax.
+AP pelvis without acute pathology,
+right total hip arthroplasty
+without acute abnormality or dislocation.
+Patient had imaging to include noncontrast head CT and CT
+C-spine that were without acute pathology. CT lumbar spine remarkable for L5 compression fracture
+with a minimal retropulsion.
+No neurologic deficits inthe lower extremities.
+Patient's CT abdomen
+and pelvis was remarkable for right iliac wing fracture comminuted, nondisplaced.
+Right iliacus and
+right gluteal muscle hematoma and sacral ala fracture.
+Sheet placed around pelvis for fracture
+stabilization. Considering the patient's multiple injuries from today's motor vehicle accident plan for
+transfer of care to higher level of care with Trauma Services, inpatient medicine, physical therapy
+occupational therapy and Orthopedics.
+Voice dictation software used for documentation.
+May contain grammar, spelling, syntax errors.
+Social Determinants of Care: Rural Environment, Critical Access hospital, Limited Access to Care.
+case discussed with low malignant a medical Center Dr. Allison.
+He accepted transfer of care.
+Considering pelvic fracture with hematoma will prioritize transport and expedite with air tranpsort,
+Mercy air.
+21:02.
+discussed CT imaging finding with patient and the patient's daughter.
+Patient will require
+transfer of care to higher level of care with Trauma Services.
+patient is voluntary for transport.
+Critical care performed (60 minutes). Time is exclusive of separately billable procedures. Time
+includes: direct patient care, patient reassessment, coordination of patient care, interpretation of data
+(laboratory data, pulse oximetry and chest xrays), review of patient's medical records, medical
+consultation, family consultation regarding treatment decisions and documentation of patient care-
+see progress notes. Procedures included in critical care time: peripheral IV placement and
+phlebotomy.
+Disposition: Benefits, risks and alternatives to transfer explained to patient and daughter. Transferred
+to Loma Linda University Medical Center. Summary of care provided to transport team, patient, family
+and transfer facility via paper.
+CLINICAL IMPRESSION
+1. Motor Vehicle Accident, Acute
+2. Right Comminuted Iliac Wing Fracture
+3. L5 Compression, Acute
+4. Right lliacus Hematoma, Acute
+5. Right Gluteal Strain Hematoma.
+Hoyer, Riley, MD
+LE, PETER
+06/30/2024 17:36__ MR#4
+Visit#
+10279723
+ici
+i
+3of3
+
+============================================================
+PAGE 8
+============================================================
+
+Patient: BEGLE, PETER
+MRN: 123464
+VisitID: 10279723
+909-866-6501
+03/19/1937, 87y, M
+WEIGHT:65 kg
+ALLERGIES: NKDA
+CHIEF COMPLAINT: MVC
+OrderSheet
+Bear Valley Community Health District
+41870 Garstin Drive, Big Bear Lake, CA 92315
+Registration Date/Time: 06/30/2024 17:36
+LAB ORDERS
+Order Description |
+Priority
+Entered
+Acknowledged
+Initialed
+CBCwDiff
+STAT
+17:50 06/30/2024
+18:10 Zapotost
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+CMP
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Lipase
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Prothrombin Time |
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+(PT) (No)
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+APTT (No)
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Lactic Acid (Lab)
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Urinalysis
+STAT
+17:50 06/30/2024
+Ack'd: 18:10
+Hoyer, Riley MD;
+Zapotosky,
+Michael
+Zapotosky R.N.
+BB Type & Screen |
+STAT
+21:33 06/30/2024
+Hoyer, Riley MD;
+DIAGNOSTIC STUDY ORDERS
+| Order Description
+| Priority
+|
+Entered
+|
+Acknowledged
+|
+_Initialed
+Patient: BEGLE, PETER
+OrderSheet
+MRN: 123464
+VisitID: 10279723
+909-866-6501
+87y,M
+Bear Valley Community Health District
+41870 Garstin Drive, Big Bear Lake, CA 92315
+Registration Date/Time: 06/30/2024 17:36
+
+============================================================
+PAGE 9
+============================================================
+
+BEGI
+02417:36__MR#1:
+Order:
+of4
+CT Head wo IV
+STAT
+17:50 06/30/2024
+Ack'd: 18:10
+19:07
+Cont
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Headache
+CT C-Spine wo IV
+STAT
+17:50 06/30/2024
+Ack'd: 18:10
+19:07
+Cont
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Pain
+CT ABD/PEL w IV
+Cont
+STAT
+17:50 06/30/2024
+Hoyer, Riley MD;
+Ack'd: 18:10
+Zapotosky,
+Michael
+Zapotosky R.N.
+19:07
+Hoogendyk, Kel
+Reason for Study: Abdominal Pain
+Chest 1V Port
+STAT
+17:50 06/30/2024
+18:10 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Reason for Study: Shortness of Breath
+Pelvis AP
+STAT
+17:50 06/30/2024
+Ack'd: 18:10
+19:07
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Pain
+CT L-Spine wo IV
+STAT
+18:17 06/30/2024
+Ack'd: 18:17
+19:07
+Cont
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Lower Back Pain
+Hand R 3V
+STAT
+18:17 06/30/2024
+Ack'd: 18:18
+18:46 Zapotosk
+Hoyer, Riley MD;
+Zapotosky,
+Michael
+Michael
+Zapotosky R.N.
+Zapotosky R.N.
+Reason for Study: Hands Pain
+Wrist 3+V Right
+STAT
+18:17 06/30/2024 |
+Ack'd: 18:18
+18:46 Zapotosk
+Hoyer, Riley MD;
+Zapotosky,
+Michael
+Michael
+Zapotosky R.N.
+Zapotosky R.N.
+T
+06):
+417:36 _ MR#
+12°
+‘isit#
+1
+OrderSheet
+of4
+
+============================================================
+PAGE 10
+============================================================
+
+BEGLE,
+PETER
+024 17:36
+it# 1027:
+Ord
+3of4
+Reason for Study: Pain
+Femur R 2V
+STAT
+18:21 06/30/2024
+Ack'd: 18:35
+19:07
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Pain
+Hip Limited 1-2V
+STAT
+18:21 06/30/2024
+Ack'd: 18:35
+19:07
+Right
+Hoyer, Riley MD;
+Zapotosky,
+Hoogendyk, Kel
+Michael
+Zapotosky R.N.
+Reason for Study: Hip Pain
+MEDICATION/IV/DRIP/FLUID ORDERS
+Order Description
+Priority
+Entered
+Acknowledged
+Initialed
+IV Saline Lock
+17:50 06/30/2024
+18:11 Zapotosk
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+Ancef IVPB 2 gm
+18:19 06/30/2024
+Ack'd: 18:20
+18:36 Zapotost
+(NOW)
+Hoyer, Riley MD;
+Zapotosky,
+Michael
+Michael
+Zapotosky R.N.
+Zapotosky R.N.
+Tdap IM 0.5 mL
+18:19 06/30/2024
+Ack'd: 18:20
+18:37 Zapotosk
+(NOW)
+Hoyer, Riley MD;
+Zapotosky,
+Michael
+Michael
+Zapotosky R.N.
+Zapotosky R.N.
+Xylocaine
+19:27 06/30/2024
+19:51 Fogle,
+Viscous PO 10 mL
+Hoyer, Riley MD;
+Joshua R.N.
+(NOW)
+Lidocaine 1% with
+19:27 06/30/2024
+19:51 Fogle,
+Epinephrine
+Hoyer, Riley MD;
+Joshua R.N.
+Injection 10 mL
+(place at bedside)
+Gabapentin PO
+21:14 06/30/2024
+21:21 Fogle,
+300 mg (NOW)
+Hoyer, Riley MD;
+Joshua R.N.
+GENERAL ORDERS
+Order Description
+Priority
+Entered
+Acknowledged
+Initialed
+Cardiac Monitor
+17:50 06/30/2024
+18:10 Zapotosk
+(continuous)
+Hoyer, Riley MD;
+Michael
+Zapotosky R.N.
+BEGLE,PETER
+06/30/2024 17:36__MR#123464
+Visitt#
+10279723
+___OrderSheet
+Sof4
+
+============================================================
+PAGE 11
+============================================================
+
+PETER
+1024
+17:
+MR#
+4of4
+Irrigate Wounds
+19:27 06/30/2024
+19:51 Fogle,
+Hoyer, Riley MD;
+Joshua R.N.
+Suture Set-up:
+19:27 06/30/2024
+19:51 Fogle,
+(Nylon 4-0) (Nylon
+Hoyer, Riley MD;
+Joshua R.N.
+5-0) (Irrigation
+Solution,
+Betadyne
+)
+(suture tray at
+bedside)
+This document has not been locked and should not be saved in the medical record
+BEGLE,PETER
+06/30/2024
+17:36_ MR# 123464
+Visit# 10279723
+OrderSheet_
+4o0f4
+
+============================================================
+PAGE 12
+============================================================
+
+Patient: BEGLE, PETER
+Labs
+MRN: 123464
+Bear Valley Community Health District
+VisitID: 10279723
+41870 Garstin Drive, Big Bear Lake, CA 92315
+909-866-6501
+87y,M
+Registration Date/Time: 06/30/2024 17:36
+Femur R 2V:
+(COLL: 06/30/2024 18:21)
+( MsgRevd 06/30/2024 19:23)
+Final
+results
+Test
+Result
+Flag
+*“(Reference)*
+FEMUR
+RT
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+?
+Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261820240630
+EXAM: FEMUR RT
+CLINICAL INDICATION:
+PAIN
+TECHNIQUE:
+4 radiographic views of the right
+femur were obtained.
+Comparison:
+None
+FINDINGS
+/ IMPRESSION:
+There is no evidence of acute fracture or dislocation.
+Status post total right hip
+arthroplasty with
+intact appearing orthopedic hardware.
+Vascular calcifications.
+The visualized joint
+space is well maintained.
+Mild degenerative changes of the knee joint.
+There is no radiopaque foreign body.
+Electronically signed by Sadat,
+Sayed at 06/30/2024 07:20
+PM PST
+Hip Limited 1-2V Right:
+(COLL: 06/30/2024 18:21)
+( MsgRevd 06/30/2024 19:23) Final
+results
+Test
+Result
+Flag
+“*(Reference)*
+HIP UNILATERAL LIMITED RT
+Patient: BEGLE, PETER
+Labs
+MRN: 123464
+Bear Valley Community Health District
+VisitID: 10279723
+41870 Garstin Drive, Big Bear Lake, CA 92315
+909-866-6501
+87y,M
+Registration Date/Time: 06/30/2024 17:36
+
+============================================================
+PAGE 13
+============================================================
+
+TER
+1024 17:
+it# 102797;
+if
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649 -
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261920240630
+EXAM:
+HIP UNILATERAL LIMITED
+RT
+CLINICAL INDICATION:
+HIP PAIN
+TECHNIQUE:
+2 radiographic views of the right hip were obtained.
+Comparison:
+HIP COMPLETE
+2V RT on
+DOS:
+9/14/23,
+HIP COMPLETE
+2V RT on DOS:
+2/28/24
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation. Status post total right hip
+arthroplasty.
+Intact orthopedic hardware.
+Vascular calcifications.
+The visualized joint
+space is well maintained.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat,
+Sayed at 06/30/2024
+07:21
+PM PST
+CT L-Spine wo IV Cont:
+(COLL: 06/30/2024 18:17)
+( MsgRevd 06/30/2024 20:20)
+Correction to results
+Exam
+CT L-SPINE
+W/O
+CONTRAST
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649 -
+41870 Garstin Drive
+Big Bear Lake,
+CA 92315
+909-878-8204
+?
+Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient
+No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261520240630
+EXAM:
+CT L-SPINE W/O CONTRAST
+INDICATION:
+LOWER BACK PAIN-
+S/P
+TC
+COMPARISON:
+None
+TECHNIQUE:
+Multiple axial
+CT
+images of the lumbar spine were obtained using bone
+algorithm. Axial
+and coronal reformatting was done.
+Bone and soft tissue
+windows were
+GLE, PETER
+17:36
+# 4
+Visit#
+102797:
+
+============================================================
+PAGE 14
+============================================================
+
+reviewed.
+Radiation Dose Information:
+CT Dose:
+CTDI volume is
+12.3
+mGy.
+Dose-length product is 378.5
+mGy*cm
+FINDINGS:
+Fracture of the superior endplate of L5 with minimal approximately
+2
+mm retropulsion.
+There is
+approximately
+25% height loss
+. Partially visualized bilateral renal cysts. Grade
+1
+retrolisthesis of
+LS in relation L4.
+The disc
+spaces are relatively preserved.
+There is multilevel degenerative
+change of the
+spine,
+with disc
+space narrowing,
+subchondral sclerosis,
+and Marginal osteophyte formation.
+Degenerative
+changes of the bilateral SI joints which include osteophytosis
+and osseous
+fusion.
+IMPRESSION:
+1. Acute wedge-shaped compression deformity involving the anterior vertebral
+body at L5
+with
+approximately 25% height loss
+and minimal retropulsion.
+2. Radiation optimization: All
+CT scans at this facility use at least one of these
+dose
+optimization
+techniques:
+automated exposure control
+mA and/or
+kV adjustment per patient size
+(includes
+targeted exams
+where
+dose is matched to clinical indication)
+or iterative
+reconstruction.
+Electronically signed by Sadat,
+Sayed at 06/30/2024 08:18
+PM PST
+Hand R 3V:
+(COLL: 06/30/2024 18:17)
+( MsgRevd 06/30/2024 19:20) Final
+results
+Test
+Result
+Flag
+**(Reference)*
+HAND
+3+VWS
+RT
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649
+-
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261620240630
+EXAM:
+HAND 3+VWS
+RT
+CLINICAL INDICATION:
+HANDS PAIN
+TECHNIQUE:
+3 radiographic views of the right hand were obtained.
+Comparison:
+None
+GLE,
+PET!
+4 17:
+it# 102797;
+
+============================================================
+PAGE 15
+============================================================
+
+PET
+4 17:
+R# 4
+ite 1
+1
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation.
+Mild-to-moderate degenerative changes.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat,
+Sayed at 06/30/2024
+07:18
+PM PST
+Wrist 3+V Right:
+(COLL: 06/30/2024 18:17)
+( MsgRevd 06/30/2024 19:21)
+Final
+results
+Result
+Flag
+**(Reference)**
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649
+-
+41870 Garstin Drive
+Big Bear Lake,
+CA 92315
+909-878-8204
+?
+Fax:
+909-878-8280
+Test
+WRIST
+3+VWS RT
+NAME:
+BEGLE,
+PETER
+DATE OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient
+No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261720240630
+EXAM:
+WRIST
+3+VWS
+RT
+CLINICAL INDICATION:
+PAIN
+TECHNIQUE:
+3 radiographic views of the right wrist were obtained.
+Comparison:
+None
+FINDINGS
+/ IMPRESSION:
+There is no evidence of acute fracture or dislocation.
+The visualized joint
+space is well maintained.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat,
+Sayed at 06/30/2024
+07:19
+PM PST
+CBCwDiff:
+(COLL: 06/30/2024 17:55)
+( MsgRevd 06/30/2024 18:09)
+Final
+results
+TT:
+Test
+Result
+Flag
+**(Reference)**
+cBCc
+PETER
+417:
+4
+isit# 10279'
+4
+
+============================================================
+PAGE 16
+============================================================
+
+PETER
+024 17:
+COMPLETE BLOOD COUNT
+5 yf
+Wwsc
+9.7
+KluL
+(4.0- 10.5)
+RBC
+4.43
+KluL
+(4.50 -5.70)
+HEMOGLOBIN
+14.2
+gidL
+(13.5 - 17.2)
+HEMATOCRIT
+42.7
+%
+(35.0 -65.0)
+MCV
+96
+fl
+(90 - 100)
+MCH
+32.1
+pg
+—
+(27.0- 31.2)
+MCHC
+33.3
+gidL
+(32.0- 35.4)
+RDW
+12.4
+%
+(12.0 - 14.8)
+PLATELETS
+162
+KluL
+(142 - 424)
+MPV
+9.3
+fL
+(6.5- 12.0)
+%NEUT
+77
+%
+(41-71)
+%LYMPH
+16
+%
+(22 - 44)
+%MONO
+5
+%
+(0-7)
+%EOS
+1
+%
+(0-4)
+%BASO
+1
+%
+(0-2)
+#NEUT
+74
+KluL
+(1.8- 7.8)
+#LYMPH
+16
+KiuL
+ (1.0- 4.8)
+#MONO
+0.4
+KluL
+(0.0-08)
+#EOS
+0.1
+KluL
+(0.0- 0.4)
+#BASO
+0.1
+KluL
+—(0.0- 0.2)
+MANUAL DIFF
+NOT INDICATED
+RBC MORPH
+NOT INDICATED
+CMP:
+(COLL: 06/30/2024 17:55)
+ (MsgRevd 06/30/2024 18:23)
+Final results
+Test
+Result
+Flag
+**(Reference)*
+COMPREHENSIVE METABOLIC PANEL
+COMPREHENSIVE METABOLIC PANEL
+SODIUM
+139.0
+mEq/L
+(137 - 145)
+POTASSIUM
+43
+MEq/L
+(3.4 - 5.0)
+CHLORIDE
+108
+mEq/L
+(98 - 107)
+Eco2
+25.0
+MEQ/L
+(22.0 - 30.0)
+ANION GAP
+10
+mEq/L
+(12 - 18)
+GLUCOSE
+104
+mg/dL
+(75 - 106)
+BUN
+27
+mg/dL.
+(9 -20)
+CREATININE
+15
+mg/dL
+(0.8-
+1.5)
+AGE
+87
+yrs
+NON-AA GFR
+47
+mL/min
+AFR AMER GFR
+57
+mUmin
+CALCIUM
+9.1
+mg/dL
+(8.4-
+10.2)
+ALBUMIN
+3.9
+g/dL =(3.5- 5.1)
+TOTAL PROTEIN
+7.4
+g/dL
+(6.3- 8.2)
+GLOBULIN
+3.5
+g/dL
+(2.4- 3.5)
+A/G RATIO
+“a2
+(1.1 - 2.2)
+SGOT/AST
+42
+U/L
+(17- 59)
+SGPT/ALT
+24
+ULL
+(21-72)
+ALKALINE PHOS
+93
+U/L
+(38 - 126)
+TOTAL BILI
+0.5
+mg/dL
+(0.2 - 1.3)
+Lipase:
+(COLL: 06/30/2024 17:55)
+( MsgRevd 06/30/2024 18:23)
+Final
+results
+PET!
+4 17:
+5Sof1
+
+============================================================
+PAGE 17
+============================================================
+
+LE,
+PETER
+30/2024
+17:36
+#4
+isit# 1027:
+yf
+Test
+Result
+Flag
+“*(Reference)*
+LIPASE
+386
+H
+U/L = (23 - 300)
+Prothrombin Time (PT):
+(COLL: 06/30/2024 17:55)
+( MsgRevd 06/30/2024 18:28) Final
+results
+ied
+Test
+Result
+Flag
+**(Reference)*
+Protime
+11.0
+seconds(9.3 - 11.4)
+INR
+1.07
+(0.90 - 1.11)
+TIME W/INRINTERPRETATON\par
+_—Therapeutic fange for Coumadin and related oral anticoagulants.
+-International Normalized Ratio(INR): 2.0-3.0 for Venous Thrombosis,
+Pulmonary Embolus, Tissue heart valves, Acute Ml, Atrial Fibrillation
+Valvular heart disease and recurrent Systemic Embolism.
+-International Normalized Ration(INR): 2.5-3.5 for Mechanical
+Prosthetic Valve.
+APTT:
+(COLL: 06/30/2024 17:55)
+( MsgRevd 06/30/2024 18:28)
+Final
+results
+Test
+Result
+Flag
+**(Reference)**
+PTT
+24.0
+L
+0
+(25.0 - 34.6)
+INTERPRETATION\par
+Critical results for patients not on therapy:
+>60 seconds
+Critical results for patients on therapy:
+© >119 seconds
+Therapeutic range for patients on therapy:
+41 - 54 seconds
+Coag studies from line draws may not be accurate due to Heparin
+and other interferences.
+Lactic Acid:
+(COLL: 06/30/2024 17:55)
+( MsgRevd 06/30/2024 18:23) Final
+results
+7
+Test
+Result
+Flag
+**(Reference)**
+LACTIC ACID
+1.0
+mmol/L (0.7 - 2.1)
+CT Head wo lV Cont:
+(COLL: 06/30/2024 17:50)
+( MsgRevd 06/30/2024 19:33)
+Final
+results
+Exam
+CT
+HEAD W/O CONTRAST
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649
+-
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient
+No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500260920240630
+EXAM:
+CT
+HEAD W/O CONTRAST
+HISTORY:
+HEADACHE
+S/P
+TC
+COMPARISON:
+CT
+HEAD W/O CONTRAST on 07/08/2022,
+CT
+HEAD W/O CONTRAST on
+07/09/2021
+Et
+PETER
+4 17:36 _
+MR# 123464
+isi
+279723
+bs _
+6of1
+
+============================================================
+PAGE 18
+============================================================
+
+EGLE,
+PETER
+17:
+isit
+7:
+Tof
+TECHNIQUE: Axial
+images were obtained and reformatted in coronal
+and sagittal planes.
+All
+CT scans at this medical facility are performed using dose modulation techniques
+as
+appropriate to a performed exam including the following:
+Automated exposure control
+was
+utilized;
+adjustment of the MA and/or KV according to patient size;
+and use of iterative
+reconstruction technique.
+CT
+Dose:
+CTDI volume is 57.5
+mGy.
+Dose-length product is 1039.3
+mGy*cm
+FINDINGS:
+Supratentorial Region:
+No evidence for large acute territorial ischemia.
+No
+intracranial
+hemorrhage is noted.
+Posterior Fossa:
+No acute abnormality.
+Brainstem:
+Unremarkable.
+Sellar/Suprasellar Region:
+Unremarkable.
+Ventricles, Cisterns,
+Sulci:
+Age-appropriate.
+Orbits:
+Unremarkable.
+Paranasal Sinuses:
+Secretions noted in the right sphenoid sinus. A
+1
+cm mucous
+retention cyst
+mane
+in the right maxillary sinus. Partial opacification of
+left
+posterior ethmoid air
+Mastoid Air Cells:
+Unremarkable.
+Vasculature:
+Intracranial arterial calcified plaque
+formation noted.
+Bones/Soft Tissues:
+No acute abnormality.
+Other:
+None.
+IMPRESSION:
+No acute intracranial process.
+Electronically signed by Sokhan Sanj,
+Maryam at 06/30/2024
+07:31
+PM PST
+CT C-Spine wo IV Cont:
+(COLL: 06/30/2024 17:50)
+( MsgRevd 06/30/2024 19:53) Final
+results
+Exam
+CT C-SPINE W/O
+CONTRAST
+Bear Valley
+Community Hospital
+Radiology Department
+Box 1649 -
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient No:
+123464
+Extern Acct:
+E10279723
+LE, PETER
+Z:
+Visit#
+1027:
+'S.
+of1
+
+============================================================
+PAGE 19
+============================================================
+
+PI
+4 17:
+R# 1
+Visit#1
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261020240630
+EXAM:
+CT C-SPINE W/O CONTRAST
+INDICATION:
+PAIN
+EXAM
+DATE:
+06/30/2024
+09:17
+PM
+COMPARISON:
+None
+TECHNIQUE: Multiple axial
+CT images of the cervical spine were obtained using bone
+ge
+coronal reformatting was done.
+Bone and soft tissue windows were reviewed.
+Radiation Dose Information:
+CT
+Dose:
+CTDI
+volume is 9.8
+mGy. Dose-length product is 228.8
+mGy*cm
+FINDINGS:
+The cervical
+alignment is intact.
+No acute cervical spine fracture is identified.
+The
+vertebral
+body
+heights are intact. No suspicious osseous lesions are identified.
+Moderate multilevel degenerative changes are identified.
+There is no prevertebral soft tissue swelling. Multiple subcentimeter hypodensities in
+a
+cuataeat thyroid lobes.
+These
+can be further evaluated with nonemergent ultrasound if
+clinically
+indicated.
+Moderate calcification at the bilateral carotid bulbs without any
+definitive
+evidence of stenosis. Partially visualized biapical lungs are clear.
+IMPRESSION:
+1.
+No evidence of acute cervical spine fracture or traumatic malalignment .
+2. All
+CT scans at this medical facility are performed using dose modulation techniques
+»anpropeiace to a performed
+exam including the following:
+Automated exposure control was
+utilized; adjustment of the MA and/or
+KV according to patient size;
+and use of iterative
+reconstruction technique.
+Electronically signed by Sadat,
+Sayed at 06/30/2024
+07:51
+PM PST
+CT ABD/PEL w IV Cont:
+(COLL: 06/30/2024 17:50)
+( MsgRevd 06/30/2024 20:15)
+Final
+results
+Exam
+CT ABD/PEL W/CONTRAST
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 -
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+?
+Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient No:
+123464
+Extern Acct:
+E10279723
+
+============================================================
+PAGE 20
+============================================================
+
+PI
+024 17:36 ___MR#
+123464
+102797:
+f4
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261120240630
+Procedure:
+CT ABD/PEL W/CONTRAST
+06/30/2024
+09:37
+PM
+Indication:ABDOMINAL PAIN.
+Comparison Study:
+Radiograph performed
+same day , pelvic
+CT scan
+dated 03/29/2024
+Technique: Axial
+images
+were obtained and reformatted in coronal
+and sagittal planes.
+All
+CT scans at this medical facility are performed using dose modulation techniques as
+appropriate to a performed
+exam including the following:
+Automated exposure control
+was
+utilized;
+adjustment of the MA and/or
+KV according to patient size;
+and use of iterative
+reconstruction technique.
+CT
+Dose:
+CTDI volume is 4.7 mGy.
+Dose-length product is 224 mGy*cm
+FINDINGS:
+CT
+abdomen and pelvis:
+Lung Bases: Unremarkable.
+Hepatobiliary:
+The upper portion of the liver is out of field-of-view.
+Partially seen
+a
+II.
+Few subcentimeter hypodense foci are too small to likely.
+Several
+a
+in gallbladder
+lumen without evidence of cholecystitis..
+Spleen: Unremarkable.
+Pancreas:
+Unremarkable.
+Adrenal Glands: Unremarkable.
+GU tract:
+The kidneys are normal in size
+bilaterally
+.
+Mild bilateral hydronephrosis.
+No
+hydroureter.
+No renal calculi are seen. A 2.4
+om exophytic cyst is seen arising
+from the
+lower
+pole of the left kidney.
+Mildly thickened trabecular bladder wall several
+small
+diverticula.
+Subcentimeter,
+4
+mm stone is
+seen in the left side of the bladder
+lumen.
+GI tract: A small sliding hiatal hernia noted.
+No evidence of small
+bowel obstruction.
+rehash
+Lymphatics:
+No mesenteric, retroperitoneal or periportal
+lymphadenopathy.
+Vasculature: Aorta is normal in caliber.
+Scattered calcified plaques
+are
+noted.
+Pelvic Organs:
+Prostate is not enlarged
+.
+Large right hydrocele noted in the scrotal sac
+poceernort tissues:
+Acute , comminuted,
+nondisplaced fracture of the right iliac wing
+with
+a
+large hematoma in the right iliacus muscle noted.
+There is asymmetric enlargement of the
+xight gluteal muscles reflecting strain without a discrete hematoma. Total right hip
+arthroplasty
+4 17:
+i
+f 4
+
+============================================================
+PAGE 21
+============================================================
+
+TER
+4 17:36 __ MR#
+it#1027:
+10 of 1
+without perihardware fracture. Heterotopic ossification on the lateral aspect of the
+right hip
+joint noted.
+The pectineal ring is intact.
+Suggestion of acute nondisplaced fracture of
+the right
+sacral ala.
+The sacroiliac joints are maintained.
+Other:
+None.
+CT lumbar spine:
+Bones: Mild acute depression of the superior endplate of L5 with the proximally 20% loss
+of
+height without retropulsion.
+There is a subcentimeter avulsion fracture fragment at the
+anterior-superior corner of L5.No definite fracture of the posterior elements.
+Chronic
+degenerative grade 1 anterolisthesis of L4 on L5 and retrolisthesis of L5 on $1 without
+pars
+defects noted. Mild reduction of L5-S1 disc height.
+Discogenic endplate changes are seen
+at
+several levels.
+Evidence of central canal
+and neural
+foramina stenosis throughout the
+cervical
+spine due to degenerative disc disease.
+Soft tissues:
+Paraspinal
+and prevertebral soft tissues are unremarkable.
+IMPRESSION:
+Acute comminuted nondisplaced right iliac wing fracture large right iliacus muscle
+intramuscular
+hematoma.
+Moderate right gluteal muscle strain without a discrete hematoma.
+Findings suggestive of acute nondisplaced right sacral ala fracture.
+Acute mild compression fracture of L5 with approximate
+20% loss of height anteriorly
+without
+retropulsion.
+Mild fullness of the bilateral renal pelvises
+that May represent hydronephrosis or
+parapelvic
+cysts.
+Trabeculated bladder wall
+likely
+reflect longstanding outlet obstruction.
+Cholelithiasis with no evidence for cholecystitis.
+Right hemicolectomy.
+More findings in the body of the report.
+Electronically signed by Sokhan Sanj,
+Maryam at 06/30/2024 08:12
+PM PST
+Chest 1V Port:
+(COLL: 06/30/2024 17:50)
+( MsgRevd 06/30/2024 18:22)
+Final
+results
+Result
+Flag
+**(Reference)**
+Test
+CHEST I v Port
+Bear Valley
+Community Hospital
+Radiology Department
+Box
+1649 -
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+4 17:
+MR# 4
+Visit#
+1027:
+bs
+O of1
+
+============================================================
+PAGE 22
+============================================================
+
+P
+4 17:36 __ MR# 123464
+7
+ibs
+_11 of 1
+NAME:
+BEGLE,
+PETER
+DATE
+OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient
+No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER, RILEY
+Accsn:
+E500261220240630
+Procedure:
+CHEST lv PORT
+06/30/2024 07:54
+PM
+Indication:
+SHORTNESS
+OF BREATH.
+Comparison:
+None
+FINDINGS:
+Lines
+and Tubes:
+None.
+Cardiomediastinal:
+The heart is normal in size
+.
+Pulmonary vasculature is within normal
+limits
+.
+Lungs:
+No focal pulmonary opacity is seen.
+The costophrenic angles are clear.
+No
+pneumothorax.
+Bones/soft tissues:
+No acute abnormality is noted.
+IMPRESSION:
+4;
+No acute cardiopulmonary disease. Hyperexpanded lungs.
+Electronically signed by Sadat,
+Sayed at 06/30/2024
+06:20
+PM PST
+Pelvis AP:
+(COLL: 06/30/2024 17:50)
+( MsgRevd 06/30/2024 18:29)
+Final
+results
+Test
+Result
+Flag
+**(Reference)**
+PELVIS
+ROUTINE
+EXAM AP VIEW
+Bear Valley Community Hospital
+Radiology Department
+Box
+1649
+-
+41870 Garstin Drive
+Big Bear Lake,
+CA
+92315
+909-878-8204
+? Fax:
+909-878-8280
+NAME:
+BEGLE,
+PETER
+DATE OF
+EXAM:
+6/30/24
+DOB:
+3/19/37
+Patient
+No:
+123464
+Extern Acct:
+E10279723
+Physician:
+HOYER,
+RILEY
+Accsn:
+E500261320240630
+EXAM:
+PELVIS ROUTINE
+EXAM AP VIEW
+CLINICAL INDICATION:
+PAIN
+TECHNIQUE:
+2 radiographic views of the pelvis were obtained.
+PETI
+i
+41
+i
+7
+Lab:
+f 4
+
+============================================================
+PAGE 23
+============================================================
+
+E
+PI
+17:36 __ MR#1
+102797:
+Li
+1
+Comparison:
+None
+FINDINGS
+/ IMPRESSION:
+Status post total right hip arthroplasty.
+Intact orthopedic hardware without evidence of
+As periprosthetic fractures or loosening. Mild-to-moderate degenerative changes of the left
+a
+joint. Diffuse osteopenia.
+Surgical clips scattered over the right hemipelvis. Mild-to-
+moderate
+degenerative changes of the bilateral SI joints.
+Electronically signed by Sadat,
+Sayed at 06/30/2024 06:26
+PM
+PST
+PETER
+102797:
+bs
+1
+
+============================================================
+PAGE 24
+============================================================
+
+Clinical Report - Nurses
+Bear Valley Community Health District
+Emergency Department
+41870 Garstin Drive, Big Bear Lake, CA 92315 909-866-6501
+Patient: BEGLE, PETER
+MRN: 123464
+Acct#: 10279723
+Sex: M
+DOB: 03/19/1937
+Age: 87y
+Arrival: 06/30/2024 17:36
+Departure:
+Disposition: Transfer
+Weight:65 kg. Height/Length:64 inches. BMI:24.6
+*This is a preliminary document and is subject to change
+TRIAGE
+Arrived by EMS.
+Triage time: 17:43 06/30/2024.
+Chief Complaint: MOTOR VEHICLE COLLISION.
+Location of injuries: right hip. --17:43 6/30/24 Barquin, Lisa, R.N.
+No loss of consciousness. No headache, neck pain, back pain, numbness or weakness. --17:45
+6/30/24 Barquin, Lisa, R.N.
+Acuity: LEVEL 3. --17:46 6/30/24 Barquin, Lisa, R.N.
+17:46 06/30/24.
+BP: 160/80. HR: 64. RR: 19. O2 saturation: 94%. Temp: 98.0 F. Pain level now 1/10.
+--17:47 6/30/24 Barquin, Lisa, R.N.
+QUICK SEPSIS RELATED ORGAN FAILURE ASSESSMENT SCORE (qSOFA) SCORE: 0. No
+altered mentation(GCS less than 15), respiratory rate not greater than orequal to 22 breaths a minute
+or systolic blood pressure not less than or equal to 100 mmhg.
+SEPSIS SCREEN: NEGATIVE. SIRS criteria negative. No possible sources of infection.
+--17:49
+6/30/24 Barquin, Lisa, R.N.
+Weight: 65 kg. Height/Length: 64 inches. BMI: 24.6. --17:48 6/30/24 Barquin, Lisa, R.N.
+Medications
+None. --17:44 6/30/24 Barquin, Lisa, R.N.
+Allergies
+NKDA.
+--17:44 6/30/24 Barquin, Lisa, R.N.
+Patient: BEGLE, PETER
+Clinical Report - Nurses
+MRN: 123464
+Bear Valley Community Health District
+VisitID: 10279723
+41870 Garstin Drive, Big Bear Lake, CA 92315
+909-866-6501
+87y,M
+Registration Date/Time: 06/30/2024 17:36
+
+============================================================
+PAGE 25
+============================================================
+
+£,
+PETER
+06/30/2024
+17:
+Visit#
+10279723
+linicalReport
+- Nui
+History
+PAST MEDICAL HX: No history of diabetes mellitus, hypertension, heart disease or lung disease.
+SOCIAL HX: Never smoker.
+No alcohol use or drug use.
+He has not traveled outside the US.
+Infectious disease exposure: No infectious disease exposure.
+ABUSE ASSESSMENT: Abuse assessment. Abuse denied. No report of abuse. --17:45 6/30/24
+Barquin, Lisa, R.N.
+SELF HARM ASSESSMENT: Self harm assessment was performed. The patient answered "no" to the
+question(s) "Have you recently felt down, depressed, or hopeless?".
+--17:46 6/30/24 Barquin, Lisa,
+R.N.
+NUTRITIONAL RISK ASSESSMENT: The nutritional risk assessment revealed no deficiencies.
+FUNCTIONAL ASSESSMENT: Functional assessment: no impairments noted.
+LEARNING NEEDS ASSESSMENT: The learning needs assessment revealed no barriers.
+FALL RISK ASSESSMENT: Fall risk assessment completed. No risk factors identified,
+SKIN INTEGRITY ASSESSMENT: Skin integrity risk assessment completed. No skin integrity risk
+identified.
+--17:46 6/30/24 Barquin, Lisa, R.N.
+PHYSICAL ASSESSMENT
+EXTREMITIES: Right hip: tenderness. --17:49 6/30/24 Barquin, Lisa, R.N.
+GENERAL/ NEURO/ PSYCH: Alert.
+Oriented X 4.
+Appears in no acute distress. --17:49 6/30/24
+Barquin, Lisa, R.N.
+RESPIRATORY: Respirations not labored.
+SKIN: Skin is warm and dry.
+--17:49 6/30/24 Barquin, Lisa, R.N.
+NURSING PROGRESS NOTES
+Call light placed in reach of patient. Side rails up x 2.
+Bed placed in lowest position.
+Brakes of bed
+on.
+--17:49 6/30/24 Barquin, Lisa, R.N.
+17:46 06/30/2024 Site #1 started prior to arrival by EMS via IV in the left forearm with an 189
+angiocath.
+--18:11 6/30/24 Zapotosky, Michael Zapotosky, R.N.
+18:31 06/30/2024 Started 2 gm of Ancef (ceFAZolin Sodium) IVPB in bag #1 50 mL; at 50 mL/hr over
+0.5 hour(s) via site #1. via dial-a-flow. Allergies verified and confirmed5 rights. IV patency established.
+IV site checked: no pain, redness, or swelling. IV flushed thoroughly pre- and post-medication
+administration. Information reviewed with patient including reason for taking this medication, signs of
+allergic reaction and precautions. Verbalizes understanding.
+--18:36 6/30/24 Zapotosky, Michael
+Zapotosky, R.N.
+18:37 06/30/2024 TDAP IM 0.5 mL given(Lot#: 333BM, expiration date:
+8/17/2026, Manufacturer:
+GlaxoSmithKline). Given in the left deltoid. Allergies verified and confirmed 5 rights. Information
+reviewed with patient including reason for taking this medication, signs of allergic reaction and
+precautions. Verbalizes understanding. Vaccine information statement provided to the patient.
+#f
+4 17:
+R# 4
+isit# 10279723
+Clinical
+- Nurses
+2o0f3
+
+============================================================
+PAGE 26
+============================================================
+
+E,
+PETER
+4 17:
+R#
+Visit#
+1027:
+ClinicalReport - Nui
+3of
+--18:37 6/30/24 Zapotosky, Michael Zapotosky, R.N.
+Portable pelvis performed.
+Patient transported to CT by stretcher with tech and radiology tech.
+--19:08 6/30/24 Hoogendyk, Kelly
+Patient returned from CT by stretcher with tech. (Returned at 1930). --19:46 6/30/24 Hoogendyk,
+Kelly
+Wound cleansed with sterile water.
+Wound irrigated with 150 mL using a 10 mL syringe; patient
+tolerated procedure well. --19:47 6/30/24 Hoogendyk, Kelly
+19:49 06/30/2024 Ancef IVPB via IV site #1 Response: no adverse reaction. --19:49 6/30/24 Fogle,
+Joshua, R.N.
+19:49 06/30/2024 TDAP IM Response: no adverse reaction.
+--19:49 6/30/24 Fogle, Joshua, R.N.
+19:50 06/30/2024 Xylocaine Viscous * Topical 10
+--19:51 6/30/24 Fogle, Joshua, R.N.
+19:51 06/30/2024 LIDOCAINE 1% WITH EPINEPHRINE Injection Injectable 20 mL given. Allergies
+verified and confirmed5 rights. Information reviewed with patient including reason for taking this
+medication, signs of allergic reaction and precautions. Verbalizes understanding.
+--19:51 6/30/24
+Fogle, Joshua, R.N.
+1/4" steri-strips applied to wound on right hand by tech.
+Dorsal right hand: applied clean dressing
+consisting of telfa pad. Secured with kerlix.
+--20:58 6/30/24 Hoogendyk, Kelly
+21:21 06/30/2024 Gabapentin PO 300 mg given. Allergies verified and confirmed 5 rights. Information
+reviewed with patient including reason for taking this medication, signs of allergic reaction and
+precautions. Verbalizes understanding.
+--21:21 6/30/24 Fogle, Joshua, R.N.
+This report is not final
+B
+PETER
+4 17:
+MR#
+4,
+Visit#
+102797;
+Clinical
+it-
+Nu
+of
+
+============================================================
+PAGE 27
+============================================================
+
+BEGLE, PEIERK
+1/11
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician: HOYER, RILEY
+Accsn:
+E500261820240630
+EXAM: FEMUR RT
+CLINICAL INDICATION: PAIN
+TECHNIQUE: 4 radiographic views of the right femur were obtained.
+Comparison: None
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation. Status post total right hip arthroplasty with intact
+appearing orthopedic hardware. Vascular calcifications.
+The visualized joint space is well maintained.
+Mild degenerative changes ofthe knee joint.
+There is no radiopaque foreign body.
+Electronically signed by Sadat, Sayed at 06/30/2024 07:20 PM PST
+
+============================================================
+PAGE 28
+============================================================
+
+BEGLE, PETER 1/1
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn: E500261720240630
+EXAM: WRIST 3+VWS RT
+CLINICAL INDICATION: PAIN
+TECHNIQUE: 3 radiographic views ofthe right wrist were obtained.
+Comparison: None
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation.
+The visualized joint space is well maintained.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat, Sayed at 06/30/2024 07:19 PM PST
+
+============================================================
+PAGE 29
+============================================================
+
+BEGLE, PETER 1/2
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No:
+123464
+Extern Acct: E10279723
+Physician: HOYER, RILEY
+Accsn:
+E500261520240630
+EXAM: CT L-SPINE W/O CONTRAST
+INDICATION: LOWER BACK PAIN- S/P TC
+COMPARISON: None
+TECHNIQUE: Multiple axial CT images of the lumbar spine were obtained using bone algorithm. Axial and
+coronal reformatting was done. Bone and soft tissue windows were reviewed.
+Radiation Dose Information:
+CT Dose: CTDI volume is 12.3 mGy. Dose-length product is 378.5 mGy*cm
+FINDINGS:
+Fracture of the superior endplate of L5 with minimal approximately 2 mm retropulsion. There is
+approximately 25% height loss . Partially visualized bilateral renal cysts. Grade 1 retrolisthesis of LS in relation
+L4.
+The disc spaces are relatively preserved. There is multilevel degenerative change of the spine, with disc space
+narrowing, subchondral sclerosis, and marginal osteophyte formation. Degenerative changes of the bilateral
+SI joints which include osteophytosis and osseous fusion.
+IMPRESSION:
+1. Acute wedge-shaped compression deformity involving the anterior vertebral body at L5 with approximately
+25% height loss and minimal retropulsion.
+2. Radiation optimization: All CT scans at this facility use at least one of these dose optimization techniques:
+automated exposure control mA and/or kV adjustment per patient size (includes targeted exams where dose
+is matched to clinical indication)
+or iterative reconstruction.
+
+============================================================
+PAGE 30
+============================================================
+
+BEGLE, PETER 2/2
+Electronically signed by Sadat, Sayed at 06/30/2024 08:18 PM PST
+
+============================================================
+PAGE 31
+============================================================
+
+BEGLE, PETER 1/1
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn:
+£500261620240630
+EXAM: HAND 3+VWS RT
+CLINICAL INDICATION: HANDS PAIN
+TECHNIQUE: 3 radiographic views of the right hand were obtained.
+Comparison: None
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation.
+Mild-to-moderate degenerative changes.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed bySadat, Sayed at 06/30/2024 07:18 PM PST
+
+============================================================
+PAGE 32
+============================================================
+
+BEGLE, PETER 1/3
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn:
+E500261120240630
+Procedure: CT ABD/PEL W/CONTRAST 06/30/2024 09:37 PM
+Indication:ABDOMINAL PAIN.
+Comparison Study: Radiograph performed same day,
+pelvic CT scan dated 03/29/2024
+Technique: Axial images were obtained and reformatted in coronal and sagittal planes.
+All CT scans at this medical facility are performed using dose modulation techniques as appropriate to a
+performed exam including the following: Automated exposure control was utilized; adjustment oftheMA
+and/or KV according to patient size; and use of iterative reconstruction technique.
+CT Dose: CTDI volume is 4.7 mGy. Dose-length product is 224 mGy*cm
+FINDINGS:
+CT abdomen and pelvis:
+Lung Bases: Unremarkable.
+Hepatobiliary: The upper portion of the liver is out of field-of-view.
+Partially seen 1.9 cm cyst lobe, segment
+ll. Few subcentimeter hypodense foci are too small to likely. Several large gallstones in gallbladder lumen
+without evidence of cholecystitis.
+Spleen: Unremarkable.
+Pancreas: Unremarkable.
+Adrenal Glands: Unremarkable.
+GU tract: The kidneys are normal in size bilaterally. Mild bilateral hydronephrosis. No hydroureter.
+No renal
+calculi are seen. A 2.4 cm exophytic cyst is seen arising from the lower pole of the left kidney. Mildly
+
+============================================================
+PAGE 33
+============================================================
+
+BEGLE, PETER 2/3
+thickened trabecular bladder wall several small diverticula. Subcentimeter, 4 mm stone is seen inthe left side
+of the bladder lumen.
+Gl tract: A small sliding hiatal hernia noted. No evidence of small bowel obstruction. Right hemicolectomy.
+Lymphatics: No mesenteric, retroperitoneal or periportal lymphadenopathy.
+Vasculature: Aorta is normal in caliber. Scattered calcified plaques are noted.
+Pelvic Organs: Prostate is not enlarged.
+Large right hydrocele noted in the scrotal sac.
+Bones/soft tissues: Acute , comminuted, nondisplaced fracture of the right iliac wing with a large hematoma
+in the right iliacus muscle noted. There is asymmetric enlargement of the right gluteal muscles reflecting
+strain without a discrete hematoma. Total right hip arthroplasty without perihardware fracture. Heterotopic
+ossification on the lateral aspect of the right hip joint noted. The pectineal ring is intact. Suggestion of acute
+nondisplaced fracture of the right sacral ala. The sacroiliac joints are maintained.
+Other: None.
+CT lumbar spine:
+Bones: Mild acute depression of the superior endplate of L5 with the proximally 20% loss of height without
+retropulsion. There is a subcentimeter avulsion fracture fragment at the anterior-superior corner of L5.No
+definite fracture of the posterior elements. Chronic degenerative grade 1 anterolisthesis of 4 on L5 and
+retrolisthesis of L5 on S1 without pars defects noted. Mild reduction of L5-S1 disc height.
+Discogenic endplate
+changes are seen at several levels. Evidence of central canal and neural foramina stenosisthroughout the
+cervical spine due to degenerative disc disease.
+Soft tissues: Paraspinal and prevertebral soft tissues are unremarkable.
+IMPRESSION:
+Acute comminuted nondisplaced right iliac wing fracture large right iliacus muscle intramuscular hematoma.
+Moderate right gluteal muscle strain without a discrete hematoma.
+Findings suggestive of acute nondisplaced right sacral ala fracture.
+Acute mild compression fracture of LS with approximate 20% loss of height anteriorly without retropulsion.
+Mild fullness of the bilateral renal pelvises that May represent hydronephrosis or parapelvic cysts.
+Trabeculated bladder wall likely reflect longstanding outlet obstruction.
+Cholelithiasis with no evidence for cholecystitis.
+
+============================================================
+PAGE 34
+============================================================
+
+BEGLE, PETER 3/3
+Cholelithiasis with no evidence for cholecystitis.
+Right hemicolectomy.
+More findings in the body of the report.
+Electronically signed by Sokhan Sanj, Maryam at 06/30/2024 08:12 PM PST
+
+============================================================
+PAGE 35
+============================================================
+
+BEGLE, PETER 1/2
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 —Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No:
+123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn: E500261020240630
+EXAM: CT C-SPINE W/O CONTRAST
+INDICATION: PAIN
+EXAM DATE: 06/30/2024 09:17 PM
+COMPARISON: None
+TECHNIQUE: Multiple axial CT images of the cervical spine were obtained using bone algorithm. Axial and
+coronal reformatting was done. Bone and soft tissue windows were reviewed.
+Radiation Dose Information:
+CT Dose: CTDI volume is 9.8 mGy. Dose-length product is 228.8 mGy*cm
+FINDINGS:
+The cervical alignment is intact. No acute cervical spine fracture is identified. The vertebral body heights are
+intact. No suspicious osseous lesions are identified.
+Moderate multilevel degenerative changes are identified.
+There is no prevertebral soft tissue swelling. Multiple subcentimeter hypodensities in the bilateral thyroid
+lobes. These can be further evaluated with nonemergent ultrasound if clinically indicated. Moderate
+calcification at the bilateral carotid bulbs without any definitive evidence of stenosis. Partially visualized
+biapical lungs are clear.
+IMPRESSION:
+1. No evidence of acute cervical spine fracture or traumatic malalignment.
+2. All CT scans at this medical facility are performed using dose modulation techniques as appropriate to a
+
+============================================================
+PAGE 36
+============================================================
+
+BEGLE, PETER 2/2
+performed exam including the following: Automated exposure control was utilized; adjustment of the MA
+and/or KV according to patient size; and use of iterative reconstruction technique.
+Electronically signed bySadat, Sayed at 06/30/2024 07:51 PM PST
+
+============================================================
+PAGE 37
+============================================================
+
+BEGLE, PETER 1/1
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No:
+123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn: E500261320240630
+EXAM: PELVIS ROUTINE EXAM AP VIEW
+CLINICAL INDICATION: PAIN
+TECHNIQUE: 2 radiographic views of the pelvis were obtained.
+Comparison: None
+FINDINGS/IMPRESSION:
+Status post total right hip arthroplasty. Intact orthopedic hardware without evidence of periprosthetic
+fractures or loosening. Mild-to-moderate degenerative changes of the left hip joint. Diffuse osteopenia.
+Surgical clips scattered over the right hemipelvis. Mild-to-moderate degenerative changes of the bilateral SI
+joints.
+Electronically signed bySadat, Sayed at 06/30/2024 06:26 PM PST
+
+============================================================
+PAGE 38
+============================================================
+
+BEGLE, PETER 1/1
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician: HOYER, RILEY
+Accsn:
+E500261220240630
+Procedure: CHEST 1v PORT 06/30/2024 07:54 PM
+Indication: SHORTNESS OF BREATH.
+Comparison: None
+FINDINGS:
+Lines and Tubes: None.
+Cardiomediastinal: The heart is normal in size . Pulmonary vasculature is within normal limits .
+Lungs: No focal pulmonary opacity is seen.
+The costophrenic angles are clear.
+No pneumothorax.
+Bones/soft tissues: No acute abnormality is noted.
+IMPRESSION:
+No acute cardiopulmonary disease. Hyperexpanded lungs.
+Electronically signed bySadat, Sayed at 06/30/2024 06:20 PM PST
+
+============================================================
+PAGE 39
+============================================================
+
+BEGLE, PETER 1/2
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 —Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician: HOYER, RILEY
+Accsn:
+E500260920240630
+EXAM: CT HEAD W/O CONTRAST
+HISTORY: HEADACHE S/P TC
+COMPARISON:
+CT HEAD W/O CONTRAST on 07/08/2022, CT HEAD W/O CONTRAST on 07/09/2021
+TECHNIQUE: Axial images were obtained and reformatted in coronal and sagittal planes.
+All CT scans at this medical facility are performed using dose modulation techniques as appropriate to a
+performed exam including thefollowing: Automated exposure control was utilized; adjustment of the MA
+and/or KV according to patient size; and use of iterative reconstruction technique.
+CT Dose: CTDI volume is 57.5 mGy. Dose-length product is 1039.3 mGy*cm
+FINDINGS:
+Supratentorial Region: No evidence for large acute territorial ischemia. No intracranial hemorrhage is noted.
+Posterior Fossa: No acute abnormality.
+Brainstem:
+Unremarkable.
+Sellar/Suprasellar Region: Unremarkable.
+Ventricles, Cisterns, Sulci: Age-appropriate.
+Orbits: Unremarkable.
+Paranasal Sinuses: Secretions noted in the right sphenoid sinus. A 1 cm mucous retention cyst is seen inthe
+right maxillary sinus. Partial opacification of left posterior ethmoid air cells.
+Mastoid Air Cells: Unremarkable.
+
+============================================================
+PAGE 40
+============================================================
+
+BEGLE, PETER 2/:
+Vasculature:
+Intracranial arterial calcified plaque formation noted.
+Bones/Soft Tissues: No acute abnormality.
+Other: None.
+IMPRESSION:
+No acute intracranial process.
+Electronically signed bySokhan Sanj, Maryam at 06/30/2024 07:31 PM PST
+
+============================================================
+PAGE 41
+============================================================
+
+BEGLE, PETER 1/7
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 — Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No: 123464
+Extern Acct: E10279723
+Physician: HOYER, RILEY
+Accsn:
+E500261920240630
+EXAM: HIP UNILATERAL LIMITED RT
+CLINICAL INDICATION: HIP PAIN
+TECHNIQUE: 2 radiographic views of the right hip were obtained.
+Comparison: HIP COMPLETE 2V RT on DOS: 9/14/23, HIP COMPLETE 2V RT on DOS: 2/28/24
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation. Status post total right hip arthroplasty. Intact orthopedic
+hardware. Vascular calcifications.
+The visualized joint space is well maintained.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat, Sayed at 06/30/2024 07:21 PM PST
+
+============================================================
+PAGE 42
+============================================================
+
+BEGLE, PETER 1/
+Bear Valley Community Hospital
+Radiology Department
+Box 1649 - 41870 Garstin Drive
+Big Bear Lake, CA 92315
+909-878-8204 —Fax: 909-878-8280
+NAME: BEGLE, PETER
+DATE OF EXAM: 6/30/24
+DOB: 3/19/37
+Patient No:
+123464
+Extern Acct: E10279723
+Physician:
+HOYER, RILEY
+Accsn: E500261920240630
+EXAM: HIP UNILATERAL LIMITED RT
+CLINICAL INDICATION: HIP PAIN
+TECHNIQUE: 2 radiographic views of the right hip were obtained.
+Comparison: HIP COMPLETE 2V RT on DOS: 9/14/23, HIP COMPLETE 2V RT on DOS: 2/28/24
+FINDINGS/IMPRESSION:
+There is no evidence of acute fracture or dislocation. Status post total right hip arthroplasty. Intact orthopedic
+hardware. Vascular calcifications.
+The visualized joint space is well maintained.
+The alignment is anatomical.
+There is no radiopaque foreign body.
+Electronically signed by Sadat, Sayed at 06/30/2024 07:21 PM PST
