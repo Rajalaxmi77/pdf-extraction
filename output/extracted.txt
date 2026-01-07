@@ -3,108 +3,193 @@
 PAGE 1
 ============================================================
 
-Imaging Healthcare Specialists - Hillcrest
-150 W. Washington St
-San Diego, CA 92103
-Imaging Healthcare
-Phone #: (858)658-6500
-SPECIALISTS
-Your Partner in Health - For Every Imaging Need
-Online results, images and scheduling available at:
-imaginghealthcare.com/results
-Patient:
-MARTINEZ, LELIA M
+Patient Name: Martinez, Lelia
+MRN: 20538
+Date of Birth: 11/9/1948
+FIN: n/a
+Facility: n/a
+$image$
+* Neurosurgery Consultation - Auth (Verified) - Internal Provenance Source: Pacific Neurosurgery & Spine Medical Group Inc; Colonna-McCarter ,
+Christine *
+Page 5 of 77
+Sanjay Ghosh, MD
+Scott P. Leary, MD
+Amanda Gumbert, PA-C
+Felix Regala, PA-C
+Deb Updike, PA-C
+Tracy Sebastian, PA-C
+CORPORATE &
+MAILING ADDRESS
+MISSION VALLEY
+3590 Camino DelRioN.
+Suite 200
+San Diego, CA 92108
+PH: 619-810-1010
+FX: 619-810-1011
+OTHER LOCATION
+MESA COLLEGE
+7625 Mesa College Drive
+Suite 305A
+San Diego, CA 92111
+SEN TA
+NEUROSURGERY
+SANJAY GHOSH, MD, FAANS, FACS
+Director ofNeurological and Spinal Surgery
+WWW.SANJAYGHOSHMD.COM
+March 4, 2024
+Brian Snook, M.D.
+2400 E. 8th Street, Suite A
+National City, CA 91950
+RE:
+MARTINEZ, Lelia
+DOE: 03/04/2024
 DOB:
 11/09/1948
-Age:
-75
-Exam Date:
-03/07/2024
-ID:
-30000062756
-Sex:
-Female
-Accession #:
-1HS3498707
-At the
-SNOOK, BRIAN, DO
-cc:
-Request of:
-=1275 30TH STREET
-SAN DIEGO, CA 92154
-PROCEDURE:
-DEXA BONE DENSITY STUDY
-COMPARISON:
-5/29/2020
-INDICATIONS:
-Patient has osteoporosis on X-ray, previous DXA exam.
-TECHNIQUE:
-Lumbar spine and proximal femoral dual-energy X-ray absorptiometry (DXA) was performed on a central Hologic
-device. In peri-menopausal women and in men age 50 or older, current International Society for Clinical
-Densitometry (ISCD) Official Positions state that the WHO Classification is determined by the lower T-score from
-either the Spine Analysis or from the Hip Analysis. The reported Hip Analysis T-score is based on either the
-femoral Neck or the Total proximal femur ROI whichever is lower. Ifbilateral hip measurements are obtained,
-Official Positions state that there is insufficient evidence to recommend mean readings.
-Reference:
-Http://www.iscd.org/official-positions.
-HIP ANALYSIS:
-The following results are obtained from the left neck femoral region which is the most abnormal ROI:
-Bone mineral density (BMD) (g/cm2): 0.628
-T-score (standard deviation relative to young adult mean BMD): -2.0
-Z-score (standard deviation relative to age matched control group): 0.0
-CHANGE SINCE PRIOR HIP EXAM:
-Increased bone mineral density.
-SPINE ANALYSIS:
-Lumbar spine region ofinterest:
-L1 and L4. L2 and L3 were excluded secondary to discordance likely from
-hypertrophic changes.
-Average bone mineral density (BMD) (g/cm2): 0.780
-T-score (standard deviation relative to young adult mean BMD): -2.3
-Z-score (standard deviation relative to age matched control group: 0.1
-CHANGE SINCE PRIOR SPINE EXAM:
-Increased bone mineral density.
+DOI:
+02/29/2024
+HISTORY:
+This is a very pleasant 75-year-old female who was a
+restrained driver involved in a motor vehicle accident on 02/29/24. The
+patient was rear-ended by a truck. This was a hit-and-run accident.
+She denies lapse of consciousness.
+There was no airbag deployment.
+Sometime after the accident, she went to Sharp emergency room where
+she was evaluated.
+The patient has developeda significant component
+of neck pain with radiating pain, numbness and weakness into the right
+upper extremity.
+She has severe pain into the right shoulder. She is
+unable to lift her right arm over her head.
+Currently, she rates her pain
+level as 10/10 on a pain scale. The patient has been taking ibuprofen
+for the pain.
+She is also having difficulty sleeping secondary to the
+above symptomatology. The patient is here for a neurosurgical
+opinion.
+PAST MEDICAL HISTORY:
+Gastric reflux.
+PAST SURGICAL HISTORY:
+Surgery for ectopic pregnancy.
+ALLERGIES:
+No known drug allergies.
+CURRENT MEDICATIONS:_
+Ibuprofen as needed for pain;
+Tylenol as needed for pain; Omeprazole.
+DISCUSSION OF PRIOR INJURIES:
+The patient is unable to
+recall any symptoms related to thecervical spine prior to this motor
+vehicle accident. The patient is unable to recall ever being evaluated
+by a healthcare professional for the cervical spine prior to this motor
+vehicle accident.
+WWW.SENTACLINIC.CON
 
 ============================================================
 PAGE 2
 ============================================================
 
-Continued Report - Page 2 of 2
-Patient:
-MARTINEZ, LELIA M
-DOB: —
-11/09/1948
-Age:
-75
-Exam Date:
-03/07/2024
-ID:
-30000062756
-Sex:
-Female
-Accession #:
-[HS3498707
-At the
-SNOOK, BRIAN, DO
-cc:
-Request of:
-=1275 30TH STREET
-SAN DIEGO, CA 92154
-WHO CLASSIFICATION:
-Osteopenia (T-score -1.0 to -2.5).
-ADDITIONAL FINDINGS:
-No significant additional findings.
-FRACTURE RISK ASSESSMENT (FRAX) 10 YEAR FRACTURE PROBABILITY:
-FRAX is a computer-based algorithm which uses easily obtained clinical risk factors combined with femoral neck
-BMD or femoral neck T-scores to estimate an individual 10-year fracture probability. FRAX with BMD predicts
-fracture risk better than clinical risk factors orBMD alone. It is not appropriate to use FRAX to monitor treatment
-response.
-Major Osteoporotic Fractures: 7.4%
-Hip Fracture: 1.8%
-In general, FRAX-calculated risk of 20% or more for a major fracture and/or a FRAX-calculated risk of3% or
-more for a hip fracture are considered indications for pharmacological treatment.
-Dictated and Electronically Authenticated by: Borso, Maya, M.D. on 03/07/2024 08:57 AM Proofread by: Borso,
-Maya, M.D. on 03/07/2024 08:57 AM
-IMAGING HEALTHCARE SPECIALISTS
-150 W. Washington St
-San Diego, CA 92103 =(858)658-6500
-Page 2 of 2
+Patient Name: Martinez, Lelia
+MRN: 20538
+Date of Birth: 11/9/1948
+FIN: n/a
+Facility: n/a
+$image$
+* Neurosurgery Consultation - Auth (Verified) - Internal Provenance Source: Pacific Neurosurgery & Spine Medical Group Inc; Colonna-McCarter ,
+Christine *
+Page 6 of 77
+MARTINEZ, Lelia
+March 4, 2024
+Page 2
+SOCIAL HISTORY:
+The patient does not smoke.
+She is single and
+she is retired.
+REVIEW OF SYSTEMS:
+Negative for cough or dyspnea on
+exertion.
+FAMILY HISTORY:
+Brother with a bleeding disorder.
+PHYSICAL EXAMINATION: Blood pressure 149/81, pulse 78,
+temperature 97.8, respirations 16, height 5'1", weight 132 Ibs.
+Neurologic-
+The patient is awake, alert, and oriented to month, day,
+place, and time.
+Cranial nerves-
+Extraocular movements are intact with no diplopia.
+Visual fields are full to bedside confrontation. Pupils are equally round
+and reactive to light and accommodation. The patient has symmetric
+facial sensation, symmetric facial movement, symmetric palate
+elevation, and midline tongue protrusion. No stridor or hoarseness.
+Motor-
+4/5 right deltoid, bicep, tricep, wrist extension, wrist flexion,
+and grip strength; 5/5 left deltoid, bicep, tricep, wrist extension, wrist
+flexion, and grip strength.
+5/5 bilateral knee extension, knee flexion,
+foot dorsiflexion, plantar flexion, and EHL.
+Sensory-
+Intact to pinprick and vibratory sensation in both hands and
+in both lower extremities.
+Reflexes-
+3+ bilateral biceps, triceps, and brachioradialis.
+3+ bilateral patellar and ankle jerk reflexes.
+Cardiac- Regular rate and rhythm. No murmurs, clicks, gallops, or
+rubs.
+Lungs- Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.
+Abdomen-
+Soft, nondistended, nontender, with normal bowel sounds.
+
+============================================================
+PAGE 3
+============================================================
+
+Patient Name: Martinez, Lelia
+MRN: 20538
+Date of Birth: 11/9/1948
+FIN: n/a
+Facility: n/a
+$image$
+* Neurosurgery Consultation - Auth (Verified) - Internal Provenance Source: Pacific Neurosurgery & Spine Medical Group Inc; Colonna-McCarter ,
+Christine *
+Page 7 of 77
+MARTINEZ, Lelia
+March 4, 2024
+Page 3
+Extremities-
+2+carotid artery pulses bilaterally. No evidence of
+carotid bruits.
+There is significant discomfort elicited with passive
+range of motion of the left shoulder. Positive Spurling’s maneuver.
+Positive Faber’s on the right.
+ASSESSMENT:
+Ms. Martinez is a very pleasant 75-year-old female
+who was involved in a motor vehicle accident on 02/29/24. The patient
+is having neck pain with radiating pain and weakness into the right
+upper extremity.
+She mayalso have an injury to the right shoulder.
+PLAN:
+1.
+MRI without contrast of the cervical spine.
+2s
+X-rays of thecervical spine to rule out instability.
+3,
+A soft cervical collar to be worn for a period of rest.
+4.
+Prescription for a Medrol Dosepak and Prilosec, 20 mg. The
+patient is instructed to hold off on taking ibuprofen while on the
+Medrol Dosepak.
+De
+Referral to orthopaedics for evaluation of the right shoulder.
+6.
+The patient will return to theclinic afterthe above studies.
+Further treatment recommendations will be given after review of
+the above mentioned imaging studies.
+Af;
+Vy:
+Sanjay Ghosh, MD, |‘AA
+S, FACS
+elix Regala,
+PA-C
+BoardCertified
+Osurgeon
+SG/FR/slp
+D: 03/04/24
+T: 03/05/24 (0850)

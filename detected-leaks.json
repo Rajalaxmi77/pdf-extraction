@@ -1,0 +1,90 @@
+{
+  "leaks_found": true,
+  "total_leaks": 14,
+  "leaked_fields": [
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Sanjay Ghosh, MD",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Scott P. Leary, MD",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Amanda Gumbert, PA-C",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Felix Regala, PA-C",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Deb Updike, PA-C",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Person Name",
+      "matched_text": "Tracy Sebastian, PA-C",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Hospital",
+      "matched_text": "Pacific Neurosurgery & Spine Medical Group Inc",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Address",
+      "matched_text": "3590 Camino DelRioN., Suite 200, San Diego, CA 92108",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Phone",
+      "matched_text": "619-810-1010",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Phone",
+      "matched_text": "619-810-1011",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Address",
+      "matched_text": "7625 Mesa College Drive, Suite 305A, San Diego, CA 92111",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Hospital",
+      "matched_text": "SEN TA NEUROSURGERY",
+      "page": "PAGE 1",
+      "confidence": "high"
+    },
+    {
+      "pii_type": "Date of Birth",
+      "matched_text": "01-01-1900",
+      "page": "PAGE 1",
+      "confidence": "medium"
+    },
+    {
+      "pii_type": "Hospital",
+      "matched_text": "Sharp emergency room",
+      "page": "PAGE 1",
+      "confidence": "high"
+    }
+  ]
+}

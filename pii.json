@@ -1,9 +1,12 @@
 {
-    
-    "Patient": "MARTINEZ, LELIA M",
-    "Accession #": "1HS3498707",
-    "DOB": "11/09/1948",
-    "At the Request of":"SNOOK, BRIAN, DO 1275 30TH STREET SAN DIEGO,CA 92154",
-    "ID": "30000062756",
-    "Phone #":"(858)658-6500"
+    "Doctor":"SANJAY GHOSH, MD",
+    "Patient Name": "MARTINEZ, Lelia",
+    "Patient ": "MARTINEZ, Lelia",
+    "RE": "MARTINEZ, Lelia",
+    "Date of Birth": "11/9/1948",
+    "MRN": "20538",
+    "FIN": "n/a",
+    "Hospital": "Senta Neurosurgery",
+    "PH": "619-810-1010",
+    "FX": "619-810-1011"
 }
