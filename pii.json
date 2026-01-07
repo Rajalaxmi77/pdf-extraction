@@ -1,27 +1,9 @@
 {
-    "Patient": "HANDROP,RONALD S",
-    "PATIENT NAME": " BEGLE PETER",
-    "Patient Name": " BEGLE,PETER",
-    "Name": "E,PETER",
-    "Person":" Handrop,RonaldS",
-    "GUARANTOR NAME":" BEGLE PETER",
-    "BIRTHDATE":"03/19/1937",
-    "REFERRING PHYSICIAN": "BLUMENFELD,ANDREW", 
-    "RE": "HANDRODP,RONALD",
-    "Account/ID":"©HARO6CVO",
-    "RequestID":"443858443",
-    "MRN#": "02-57-08-22",
-    "MRN": "20211",
-    "FIN": "n/a",
-    "SHC#":"100-962-224",
-    "Date of Birth": "03/19/1937",
-    "DOB/Age/Sex": "12/7/1954  68years Male",
-    "DOB":"12/7/1954",
-    "Attending": "BuckleyMD,ByronJeffrey",
-    "Referral By":"Sanjay Ghosh, M.D.",
-    "Hospital":"SMI Imaging Center of San Diego,LLC Dr. Sanjay Ghosh 7625 Mesa College Dr. Suite 110A, San Diego, CA 92111",
-    "Phone":"(619)810-1010",
-    "Fax":"(619)810-1011"
     
+    "Patient": "MARTINEZ, LELIA M",
+    "Accession #": "1HS3498707",
+    "DOB": "11/09/1948",
+    "At the Request of":"SNOOK, BRIAN, DO 1275 30TH STREET SAN DIEGO,CA 92154",
+    "ID": "30000062756",
+    "Phone #":"(858)658-6500"
 }
-

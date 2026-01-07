@@ -1,0 +1,110 @@
+
+============================================================
+PAGE 1
+============================================================
+
+Imaging Healthcare Specialists - Hillcrest
+150 W. Washington St
+San Diego, CA 92103
+Imaging Healthcare
+Phone #: (858)658-6500
+SPECIALISTS
+Your Partner in Health - For Every Imaging Need
+Online results, images and scheduling available at:
+imaginghealthcare.com/results
+Patient:
+MARTINEZ, LELIA M
+DOB:
+11/09/1948
+Age:
+75
+Exam Date:
+03/07/2024
+ID:
+30000062756
+Sex:
+Female
+Accession #:
+1HS3498707
+At the
+SNOOK, BRIAN, DO
+cc:
+Request of:
+=1275 30TH STREET
+SAN DIEGO, CA 92154
+PROCEDURE:
+DEXA BONE DENSITY STUDY
+COMPARISON:
+5/29/2020
+INDICATIONS:
+Patient has osteoporosis on X-ray, previous DXA exam.
+TECHNIQUE:
+Lumbar spine and proximal femoral dual-energy X-ray absorptiometry (DXA) was performed on a central Hologic
+device. In peri-menopausal women and in men age 50 or older, current International Society for Clinical
+Densitometry (ISCD) Official Positions state that the WHO Classification is determined by the lower T-score from
+either the Spine Analysis or from the Hip Analysis. The reported Hip Analysis T-score is based on either the
+femoral Neck or the Total proximal femur ROI whichever is lower. Ifbilateral hip measurements are obtained,
+Official Positions state that there is insufficient evidence to recommend mean readings.
+Reference:
+Http://www.iscd.org/official-positions.
+HIP ANALYSIS:
+The following results are obtained from the left neck femoral region which is the most abnormal ROI:
+Bone mineral density (BMD) (g/cm2): 0.628
+T-score (standard deviation relative to young adult mean BMD): -2.0
+Z-score (standard deviation relative to age matched control group): 0.0
+CHANGE SINCE PRIOR HIP EXAM:
+Increased bone mineral density.
+SPINE ANALYSIS:
+Lumbar spine region ofinterest:
+L1 and L4. L2 and L3 were excluded secondary to discordance likely from
+hypertrophic changes.
+Average bone mineral density (BMD) (g/cm2): 0.780
+T-score (standard deviation relative to young adult mean BMD): -2.3
+Z-score (standard deviation relative to age matched control group: 0.1
+CHANGE SINCE PRIOR SPINE EXAM:
+Increased bone mineral density.
+
+============================================================
+PAGE 2
+============================================================
+
+Continued Report - Page 2 of 2
+Patient:
+MARTINEZ, LELIA M
+DOB: —
+11/09/1948
+Age:
+75
+Exam Date:
+03/07/2024
+ID:
+30000062756
+Sex:
+Female
+Accession #:
+[HS3498707
+At the
+SNOOK, BRIAN, DO
+cc:
+Request of:
+=1275 30TH STREET
+SAN DIEGO, CA 92154
+WHO CLASSIFICATION:
+Osteopenia (T-score -1.0 to -2.5).
+ADDITIONAL FINDINGS:
+No significant additional findings.
+FRACTURE RISK ASSESSMENT (FRAX) 10 YEAR FRACTURE PROBABILITY:
+FRAX is a computer-based algorithm which uses easily obtained clinical risk factors combined with femoral neck
+BMD or femoral neck T-scores to estimate an individual 10-year fracture probability. FRAX with BMD predicts
+fracture risk better than clinical risk factors orBMD alone. It is not appropriate to use FRAX to monitor treatment
+response.
+Major Osteoporotic Fractures: 7.4%
+Hip Fracture: 1.8%
+In general, FRAX-calculated risk of 20% or more for a major fracture and/or a FRAX-calculated risk of3% or
+more for a hip fracture are considered indications for pharmacological treatment.
+Dictated and Electronically Authenticated by: Borso, Maya, M.D. on 03/07/2024 08:57 AM Proofread by: Borso,
+Maya, M.D. on 03/07/2024 08:57 AM
+IMAGING HEALTHCARE SPECIALISTS
+150 W. Washington St
+San Diego, CA 92103 =(858)658-6500
+Page 2 of 2

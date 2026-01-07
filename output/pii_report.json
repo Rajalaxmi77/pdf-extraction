@@ -1,0 +1,12 @@
+{
+    "summary": {
+        "total_pii_items": 6,
+        "items_with_remaining_pii": 0,
+        "total_remaining_instances": 0,
+        "pages_with_remaining_pii": []
+    },
+    "details": {},
+    "recommendations": [
+        "All PII appears to have been successfully sanitized!"
+    ]
+}
