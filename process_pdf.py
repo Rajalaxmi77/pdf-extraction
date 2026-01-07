@@ -28,6 +28,97 @@ def load_json(path):
 
 
 # -------------------------------
+# NORMALIZATION AND MERGE FUNCTIONS
+# -------------------------------
+def normalize(value: str) -> str:
+    """
+    Normalize text for comparison:
+    - lowercase
+    - remove spaces and common separators
+    """
+    return re.sub(r"[\s\-\(\)\.,#]", "", value.lower())
+
+
+def ensure_list(value) -> list:
+    """
+    Convert:
+    - string -> [string]
+    - list -> list
+    - None -> []
+    """
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return [str(v) for v in value if str(v).strip()]
+    return [str(value)]
+
+
+def normalize_pii_registry(raw_pii: dict) -> dict:
+    """
+    Force every PII field to be an array
+    """
+    normalized = {}
+    for field, value in raw_pii.items():
+        normalized[field] = ensure_list(value)
+    return normalized
+
+
+def merge_pii_registry(
+    pii_path="pii.json",
+    detected_path="detected-leaks.json",
+    output_dir="output"
+):
+    """
+    Merge pii.json and detected-leaks.json into merged-pii.json
+    """
+    print("🔄 Merging PII files...")
+    
+    # Load inputs
+    raw_pii = load_json(pii_path)
+    detected = load_json(detected_path)
+
+    # Normalize pii.json (strings -> arrays)
+    pii_registry = normalize_pii_registry(raw_pii)
+
+    # Build normalized lookup for fast comparison
+    normalized_lookup = {
+        field: {normalize(v) for v in values}
+        for field, values in pii_registry.items()
+    }
+
+    # Merge detected leaks
+    for item in detected.get("leaked_fields", []):
+        field = item.get("pii_type")
+        value = item.get("matched_text", "").strip()
+
+        if not field or not value:
+            continue
+
+        # Initialize unknown PII fields automatically
+        pii_registry.setdefault(field, [])
+        normalized_lookup.setdefault(field, set())
+
+        norm_value = normalize(value)
+
+        # Add only if truly new
+        if norm_value not in normalized_lookup[field]:
+            pii_registry[field].append(value)
+            normalized_lookup[field].add(norm_value)
+            print(f"  + Added new PII: {field} = {value}")
+
+    # Write output
+    output_path = os.path.join(output_dir, "merged-pii.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(pii_registry, f, indent=4, ensure_ascii=False)
+
+    print(f"✅ Merged PII registry generated at: {output_path}")
+    print(f"  Total PII categories: {len(pii_registry)}")
+    print(f"  Total PII values: {sum(len(v) for v in pii_registry.values())}")
+    
+    return pii_registry
+
+
+# -------------------------------
 # CLEAN TEXT
 # -------------------------------
 def clean_text(text):
@@ -388,87 +479,104 @@ def replace_honorific_name(text, original_name, dummy_last_name):
 
 
 # -------------------------------
-# PII REPLACEMENT (UPDATED FOR ARRAY DUMMY VALUES)
+# PII REPLACEMENT FOR ARRAY VALUES
 # -------------------------------
-def replace_pii(text, pii_data, dummy_data):
+def replace_pii_with_arrays(text, pii_data, dummy_data):
     """
     Replace PII values with dummy values.
-    pii_data: dict with string values
-    dummy_data: dict with array values
+    Both pii_data and dummy_data are dictionaries with array values.
     Returns: (new_text, replacement_map)
     """
     replacement_map = {}
     current_text = text
     
-    # Track which dummy value index to use for each PII type
-    dummy_index_map = {}
+    print(f"\n🔄 Processing {len(pii_data)} PII categories...")
     
-    for key, original in pii_data.items():
+    for key, original_values in pii_data.items():
+        if not original_values:
+            continue
+        
         dummy_array = dummy_data.get(key)
         if not dummy_array:
-            print(f"⚠ No dummy data for key: {key}")
+            print(f"⚠ No dummy data for category: {key}")
             continue
-
-        # Initialize or get index for this PII type
-        if key not in dummy_index_map:
-            dummy_index_map[key] = 0
-        else:
-            dummy_index_map[key] = (dummy_index_map[key] + 1) % len(dummy_array)
         
-        index = dummy_index_map[key]
-        dummy = get_dummy_value(dummy_array, index)
+        # Track replacements for this category
+        category_replacements = {
+            "Original_values": original_values,
+            "DUMMY_values": dummy_array,
+            "replacements": []
+        }
         
-        if not dummy:
-            print(f"⚠ Empty dummy value for key: {key}")
-            continue
-
-        total_replacements = 0
-        original_text = current_text
-
-        # 1️⃣ Labeled replacement
-        new_text, direct_count = safe_replace(current_text, original, dummy)
-        if direct_count > 0:
-            current_text = new_text
-            total_replacements += direct_count
-
-        # 2️⃣ Patient name logic (full + honorific)
-        if key.lower() in ["patient name", "patient", "person", "name", "first name", "last name", "re"]:
-            # Free-floating full name
-            new_text, free_count = replace_free_floating_name(
-                current_text, original, dummy
-            )
-            if free_count > 0:
+        total_category_replacements = 0
+        
+        # Process each original value in this category
+        for original_idx, original in enumerate(original_values):
+            # Get corresponding dummy value (cycle through dummy array)
+            dummy_idx = original_idx % len(dummy_array)
+            dummy = get_dummy_value(dummy_array, dummy_idx)
+            
+            if not dummy:
+                continue
+            
+            # 1️⃣ Labeled replacement
+            new_text, direct_count = safe_replace(current_text, original, dummy)
+            if direct_count > 0:
                 current_text = new_text
-                total_replacements += free_count
-
-            # Honorific + last name
-            dummy_last = dummy.split()[-1] if " " in dummy else dummy
-            new_text, honorific_count = replace_honorific_name(
-                current_text, original, dummy_last
-            )
-            if honorific_count > 0:
-                current_text = new_text
-                total_replacements += honorific_count
-
-        # Track replacement in map
-        if total_replacements > 0:
-            replacement_map[key] = {
-                "Original": original,
-                "DUMMY": dummy,
-                "index": index,
-                "replacements_count": total_replacements,
-                "status": "replaced"
-            }
+                total_category_replacements += direct_count
+                category_replacements["replacements"].append({
+                    "original": original,
+                    "dummy": dummy,
+                    "method": "labeled",
+                    "count": direct_count
+                })
+            
+            # 2️⃣ Special handling for names
+            name_categories = ["patient name", "patient", "person", "name", "first name", "last name", "re"]
+            if key.lower() in name_categories:
+                # Free-floating full name
+                new_text, free_count = replace_free_floating_name(
+                    current_text, original, dummy
+                )
+                if free_count > 0:
+                    current_text = new_text
+                    total_category_replacements += free_count
+                    category_replacements["replacements"].append({
+                        "original": original,
+                        "dummy": dummy,
+                        "method": "free_floating",
+                        "count": free_count
+                    })
+                
+                # Honorific + last name
+                dummy_last = dummy.split()[-1] if " " in dummy else dummy
+                new_text, honorific_count = replace_honorific_name(
+                    current_text, original, dummy_last
+                )
+                if honorific_count > 0:
+                    current_text = new_text
+                    total_category_replacements += honorific_count
+                    category_replacements["replacements"].append({
+                        "original": original,
+                        "dummy": dummy_last,
+                        "method": "honorific",
+                        "count": honorific_count
+                    })
+        
+        # Store category results
+        replacement_map[key] = {
+            "Original_values_count": len(original_values),
+            "DUMMY_values_count": len(dummy_array),
+            "total_replacements": total_category_replacements,
+            "status": "replaced" if total_category_replacements > 0 else "not_replaced",
+            "details": category_replacements["replacements"]
+        }
+        
+        if total_category_replacements > 0:
+            print(f"  ✅ {key}: {total_category_replacements} replacements")
         else:
-            # Even if not replaced, we track it with available dummy options
-            replacement_map[key] = {
-                "Original": original,
-                "DUMMY": dummy,  # Still track the dummy that would have been used
-                "index": index,
-                "replacements_count": 0,
-                "status": "not_replaced"
-            }
-
+            print(f"  ⚠ {key}: No replacements made")
+    
     return current_text, replacement_map
 
 
@@ -477,55 +585,72 @@ def replace_pii(text, pii_data, dummy_data):
 # -------------------------------
 def create_final_replaced_json(pii_data, dummy_data, replacement_map, extracted_text, sanitized_text):
     """
-    Create a final-replaced.json file that tracks which original values
+    Create a replaced.json file that tracks which original values
     were replaced with which dummy values.
     """
     final_data = {
         "metadata": {
             "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
-            "total_pii_items": len(pii_data),
-            "replaced_items": sum(1 for item in replacement_map.values() if item.get("status") == "replaced"),
-            "not_replaced_items": sum(1 for item in replacement_map.values() if item.get("status") == "not_replaced"),
+            "total_pii_categories": len(pii_data),
+            "total_pii_values": sum(len(v) for v in pii_data.values()),
+            "replaced_categories": sum(1 for item in replacement_map.values() if item.get("status") == "replaced"),
+            "not_replaced_categories": sum(1 for item in replacement_map.values() if item.get("status") == "not_replaced"),
             "text_statistics": {
                 "original_characters": len(extracted_text),
                 "sanitized_characters": len(sanitized_text),
-                "total_replacements": sum(item.get("replacements_count", 0) for item in replacement_map.values())
+                "total_replacements": sum(item.get("total_replacements", 0) for item in replacement_map.values())
             }
         },
         "mappings": [],
         "summary_by_category": {}
     }
     
-    # Create mappings for each PII item
-    for key, original in pii_data.items():
-        dummy_array = dummy_data.get(key)
-        
-        # Get replacement info if available
+    # Create mappings for each PII category
+    for key, original_values in pii_data.items():
+        dummy_array = dummy_data.get(key, [])
         replacement_info = replacement_map.get(key, {})
         
-        # Create mapping entry
+        # Get all replacements for this category
+        category_replacements = []
+        for orig_idx, original in enumerate(original_values):
+            dummy_idx = orig_idx % len(dummy_array) if dummy_array else 0
+            dummy = get_dummy_value(dummy_array, dummy_idx)
+            
+            # Check if this specific original was replaced
+            was_replaced = False
+            replacement_count = 0
+            if "details" in replacement_info:
+                for detail in replacement_info["details"]:
+                    if detail["original"] == original:
+                        was_replaced = True
+                        replacement_count += detail["count"]
+            
+            category_replacements.append({
+                "Original": original,
+                "DUMMY": dummy,
+                "replaced": was_replaced,
+                "replacement_count": replacement_count,
+                "dummy_index": dummy_idx if dummy_array else None
+            })
+        
+        # Create category mapping entry
         mapping_entry = {
             "category": key,
-            "Original": original,
-            "DUMMY": replacement_info.get("DUMMY", get_dummy_value(dummy_array)),
+            "Original_values": original_values,
+            "DUMMY_values": dummy_array,
             "status": replacement_info.get("status", "not_replaced"),
-            "replacements_count": replacement_info.get("replacements_count", 0),
-            "dummy_options": dummy_array if isinstance(dummy_array, list) else [dummy_array] if dummy_array else []
+            "total_replacements": replacement_info.get("total_replacements", 0),
+            "replacements": category_replacements
         }
-        
-        # Add replacement details if available
-        if "index" in replacement_info:
-            mapping_entry["dummy_index_used"] = replacement_info["index"]
         
         final_data["mappings"].append(mapping_entry)
         
-        # Add to summary by category
+        # Add to summary
         final_data["summary_by_category"][key] = {
-            "Original": original,
-            "DUMMY_used": mapping_entry["DUMMY"],
+            "Original_count": len(original_values),
+            "DUMMY_count": len(dummy_array),
             "status": mapping_entry["status"],
-            "replacements_made": mapping_entry["replacements_count"],
-            "available_dummies": len(mapping_entry["dummy_options"])
+            "total_replacements": mapping_entry["total_replacements"]
         }
     
     return final_data
@@ -539,113 +664,131 @@ def run_pipeline():
 
     pdf_path = "input/2024.03.04 Senta Neurosurgery.pdf"
 
-    # 1️⃣ ADVANCED EXTRACTION
-    print("🔍 Extracting PDF text...")
+    # 1️⃣ MERGE PII FILES
+    print("🔄 Merging PII files...")
+    pii_data = merge_pii_registry(
+        pii_path="pii.json",
+        detected_path="detected-leaks.json",
+        output_dir="output"
+    )
+    
+    # Save the merged file
+    with open("output/merged-pii.json", "w", encoding="utf-8") as f:
+        json.dump(pii_data, f, indent=4, ensure_ascii=False)
+
+    # 2️⃣ LOAD DUMMY DATA
+    print("\n📋 Loading dummy data...")
+    dummy_data = load_json("dummy_val.json")
+    print(f"✅ Loaded dummy data with {len(dummy_data)} categories")
+
+    # 3️⃣ ADVANCED EXTRACTION
+    print("\n🔍 Extracting PDF text...")
     extracted_text = extract_pdf_to_text(pdf_path)
     with open("output/extracted.txt", "w", encoding="utf-8") as f:
         f.write(extracted_text)
     print("✅ Extraction complete")
+    print(f"  Extracted {len(extracted_text):,} characters")
 
-    # 2️⃣ LOAD PII
-    print("📋 Loading PII data...")
-    pii_data = load_json("pii.json")
-    dummy_data = load_json("dummy_val.json")
-    print(f"✅ Loaded {len(pii_data)} PII items")
-    print(f"✅ Loaded dummy data with {len(dummy_data)} categories")
-
-    # 3️⃣ SANITIZE
-    print("🛡️ Sanitizing PII...")
-    sanitized_text, replacement_map = replace_pii(
+    # 4️⃣ SANITIZE WITH MERGED PII
+    print("\n🛡️ Sanitizing PII with merged data...")
+    sanitized_text, replacement_map = replace_pii_with_arrays(
         extracted_text, pii_data, dummy_data
     )
 
-    # 4️⃣ CREATE FINAL REPLACED JSON
-    print("📝 Creating final-replaced.json...")
+    # 5️⃣ CREATE FINAL REPLACED JSON
+    print("\n📝 Creating replaced.json...")
     final_replaced_data = create_final_replaced_json(
         pii_data, dummy_data, replacement_map, extracted_text, sanitized_text
     )
     
-    # 5️⃣ SAVE OUTPUTS
-    print("💾 Saving outputs...")
+    # 6️⃣ SAVE OUTPUTS
+    print("\n💾 Saving outputs...")
     with open("output/sanitized.txt", "w", encoding="utf-8") as f:
         f.write(sanitized_text)
     
-    # Only save final-replaced.json (not replace.json or pii_report.json)
-    with open("output/final-replaced.json", "w", encoding="utf-8") as f:
+    with open("output/replaced.json", "w", encoding="utf-8") as f:
         json.dump(final_replaced_data, f, indent=4)
     
-    # 6️⃣ PRINT SUMMARY
+    # 7️⃣ PRINT SUMMARY
     print("\n" + "="*60)
     print("PII SANITIZATION REPORT")
     print("="*60)
     
     metadata = final_replaced_data["metadata"]
     print(f"\n📊 SUMMARY:")
-    print(f"  Total PII items: {metadata['total_pii_items']}")
-    print(f"  Successfully replaced: {metadata['replaced_items']}")
-    print(f"  Not replaced: {metadata['not_replaced_items']}")
+    print(f"  Total PII categories: {metadata['total_pii_categories']}")
+    print(f"  Total PII values: {metadata['total_pii_values']}")
+    print(f"  Categories replaced: {metadata['replaced_categories']}")
+    print(f"  Categories not replaced: {metadata['not_replaced_categories']}")
     print(f"  Total replacements made: {metadata['text_statistics']['total_replacements']}")
     print(f"  Original text size: {metadata['text_statistics']['original_characters']:,} chars")
     print(f"  Sanitized text size: {metadata['text_statistics']['sanitized_characters']:,} chars")
     
     # Show detailed replacement status
-    print(f"\n📋 REPLACEMENT DETAILS:")
+    print(f"\n📋 REPLACEMENT DETAILS BY CATEGORY:")
     print("-" * 80)
-    print(f"{'Category':<30} {'Status':<15} {'Replacements':<15} {'Original -> DUMMY'}")
+    print(f"{'Category':<25} {'Status':<12} {'PII Values':<10} {'Replacements':<12}")
     print("-" * 80)
     
     for mapping in final_replaced_data["mappings"]:
         status_icon = "✅" if mapping["status"] == "replaced" else "❌"
         category = mapping["category"]
         status = mapping["status"]
-        count = mapping["replacements_count"]
-        original_short = (mapping["Original"][:20] + "...") if len(mapping["Original"]) > 20 else mapping["Original"]
-        dummy_short = (mapping["DUMMY"][:20] + "...") if len(mapping["DUMMY"]) > 20 else mapping["DUMMY"]
+        pii_count = len(mapping["Original_values"])
+        replacements = mapping["total_replacements"]
         
-        print(f"{category:<30} {status_icon} {status:<12} {count:<15} {original_short} -> {dummy_short}")
+        print(f"{category:<25} {status_icon} {status:<10} {pii_count:<10} {replacements:<12}")
     
     # Show sample of actual replacements
-    print(f"\n🔍 SAMPLE ACTUAL REPLACEMENTS:")
-    replaced_items = [m for m in final_replaced_data["mappings"] if m["status"] == "replaced" and m["replacements_count"] > 0]
+    print(f"\n🔍 SAMPLE REPLACEMENTS (first 3 categories):")
+    replaced_categories = [m for m in final_replaced_data["mappings"] if m["status"] == "replaced" and m["total_replacements"] > 0]
     
-    if replaced_items:
-        for i, item in enumerate(replaced_items[:5]):  # Show first 5
-            print(f"\n  {i+1}. {item['category']}:")
-            print(f"     Original: {item['Original']}")
-            print(f"     DUMMY: {item['DUMMY']}")
-            print(f"     Replacements made: {item['replacements_count']}")
-    else:
-        print("  No replacements were made.")
+    for i, category in enumerate(replaced_categories[:3]):
+        print(f"\n  {i+1}. {category['category']}:")
+        print(f"     Total replacements: {category['total_replacements']}")
+        
+        # Show up to 3 sample replacements
+        sample_count = 0
+        for replacement in category["replacements"]:
+            if replacement["replaced"] and sample_count < 3:
+                print(f"     - {replacement['Original']} → {replacement['DUMMY']} (count: {replacement['replacement_count']})")
+                sample_count += 1
     
-    # Show items that weren't replaced
-    not_replaced_items = [m for m in final_replaced_data["mappings"] if m["status"] == "not_replaced"]
-    if not_replaced_items:
-        print(f"\n⚠️ ITEMS NOT REPLACED ({len(not_replaced_items)}):")
-        for i, item in enumerate(not_replaced_items[:10]):  # Show first 10
-            print(f"  {i+1}. {item['category']}: {item['Original']}")
-        if len(not_replaced_items) > 10:
-            print(f"  ... and {len(not_replaced_items) - 10} more")
+    # Show categories that weren't replaced
+    not_replaced = [m for m in final_replaced_data["mappings"] if m["status"] == "not_replaced"]
+    if not_replaced:
+        print(f"\n⚠️ CATEGORIES NOT REPLACED ({len(not_replaced)}):")
+        for i, category in enumerate(not_replaced[:5]):
+            pii_values = category["Original_values"]
+            sample_values = pii_values[:2] if len(pii_values) > 2 else pii_values
+            print(f"  {i+1}. {category['category']}: {len(pii_values)} values")
+            if sample_values:
+                print(f"     Sample: {', '.join(sample_values)}")
+        if len(not_replaced) > 5:
+            print(f"  ... and {len(not_replaced) - 5} more categories")
     
     print(f"\n📁 Output files created:")
+    print("  - output/merged-pii.json (merged PII data)")
     print("  - output/extracted.txt (raw extracted text)")
     print("  - output/sanitized.txt (PII-replaced text)")
-    print("  - output/final-replaced.json (Original->DUMMY mapping)")
+    print("  - output/replaced.json (Original->DUMMY mapping)")
     
     # Save a simple text summary
     with open("output/pii_summary.txt", "w", encoding="utf-8") as f:
         f.write("PII SANITIZATION SUMMARY\n")
         f.write("="*60 + "\n\n")
         f.write(f"Timestamp: {metadata['timestamp']}\n")
-        f.write(f"Total PII items: {metadata['total_pii_items']}\n")
-        f.write(f"Successfully replaced: {metadata['replaced_items']}\n")
-        f.write(f"Not replaced: {metadata['not_replaced_items']}\n")
+        f.write(f"Total PII categories: {metadata['total_pii_categories']}\n")
+        f.write(f"Total PII values: {metadata['total_pii_values']}\n")
+        f.write(f"Categories replaced: {metadata['replaced_categories']}\n")
+        f.write(f"Categories not replaced: {metadata['not_replaced_categories']}\n")
         f.write(f"Total replacements made: {metadata['text_statistics']['total_replacements']}\n\n")
         
-        f.write("REPLACEMENT DETAILS:\n")
+        f.write("REPLACEMENT DETAILS BY CATEGORY:\n")
         f.write("-" * 60 + "\n")
         for mapping in final_replaced_data["mappings"]:
             status = "✓" if mapping["status"] == "replaced" else "✗"
-            f.write(f"{status} {mapping['category']}: {mapping['Original']} -> {mapping['DUMMY']} (count: {mapping['replacements_count']})\n")
+            f.write(f"{status} {mapping['category']}: {len(mapping['Original_values'])} values, {mapping['total_replacements']} replacements\n")
 
 
 # -------------------------------
