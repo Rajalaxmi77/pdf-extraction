@@ -1,12 +1,9 @@
 {
-    "Doctor":"SANJAY GHOSH, MD",
+    "Doctor":"Brian Snook, M.D.",
     "Patient Name": "MARTINEZ, Lelia",
-    "Patient ": "MARTINEZ, Lelia",
     "RE": "MARTINEZ, Lelia",
+    "DOE": "03/04/2024",
     "Date of Birth": "11/9/1948",
     "MRN": "20538",
-    "FIN": "n/a",
-    "Hospital": "Senta Neurosurgery",
-    "PH": "619-810-1010",
-    "FX": "619-810-1011"
+    "FIN": "n/a"
 }

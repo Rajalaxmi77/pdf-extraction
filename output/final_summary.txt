@@ -1,0 +1,45 @@
+============================================================
+PII SANITIZATION SUMMARY
+============================================================
+
+1. PII DETECTION IN ORIGINAL TEXT:
+----------------------------------------
+Total PII values in merged-pii.json: 19
+Found in sanitized.txt: 1
+Not found in sanitized.txt: 18
+
+Categories with PII found:
+  DOE: 1 values
+    • 03/04/2024
+
+2. REPLACEMENT RESULTS:
+----------------------------------------
+Total PII-Dummy mappings: 17
+Total replacements made: 0
+Unique PII values replaced: 0
+
+Successfully replaced: 0/17
+3. FINAL SANITIZED TEXT ANALYSIS:
+----------------------------------------
+⚠️  1 original PII values found (1 total occurrences) in final-sanitized.txt
+
+Categories with remaining PII:
+  DOE: 1 values
+    • 03/04/2024
+
+4. FILE INFORMATION:
+----------------------------------------
+Input file size: 5,558 characters
+Output file size: 5,558 characters
+Size change: +0 characters
+
+============================================================
+FINAL STATUS
+============================================================
+⚠️  ISSUES DETECTED: Original PII remains in final text
+   Recommendations:
+   1. Check the mapping logic
+   2. Verify PII values have proper dummy mappings
+   3. Check for case sensitivity or formatting issues
+
+Report generated: 2026-01-08 09:14:13

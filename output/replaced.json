@@ -1,0 +1,390 @@
+{
+    "metadata": {
+        "timestamp": "2026-01-08 09:14:10",
+        "total_pii_categories": 11,
+        "total_pii_values": 19,
+        "replaced_categories": 9,
+        "not_replaced_categories": 1,
+        "text_statistics": {
+            "original_characters": 5791,
+            "sanitized_characters": 5558,
+            "total_replacements": 36
+        }
+    },
+    "mappings": [
+        {
+            "category": "Doctor",
+            "Original_values": [
+                "Brian Snook, M.D."
+            ],
+            "DUMMY_values": [
+                "Dr. John Smith",
+                "Dr. Alice Brown",
+                "Dr. Mark Wilson"
+            ],
+            "status": "replaced",
+            "total_replacements": 1,
+            "replacements": [
+                {
+                    "Original": "Brian Snook, M.D.",
+                    "DUMMY": "Dr. John Smith",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "Patient Name",
+            "Original_values": [
+                "MARTINEZ, Lelia"
+            ],
+            "DUMMY_values": [
+                "John Doe",
+                "Peter Smith",
+                "Alex Brown",
+                "Michael Taylor",
+                "David Wilson"
+            ],
+            "status": "replaced",
+            "total_replacements": 7,
+            "replacements": [
+                {
+                    "Original": "MARTINEZ, Lelia",
+                    "DUMMY": "John Doe",
+                    "replaced": true,
+                    "replacement_count": 7,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "RE",
+            "Original_values": [
+                "MARTINEZ, Lelia"
+            ],
+            "DUMMY_values": [
+                "John Doe",
+                "Peter Smith",
+                "Alex Brown"
+            ],
+            "status": "not_replaced",
+            "total_replacements": 0,
+            "replacements": [
+                {
+                    "Original": "MARTINEZ, Lelia",
+                    "DUMMY": "John Doe",
+                    "replaced": false,
+                    "replacement_count": 0,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "DOE",
+            "Original_values": [
+                "03/04/2024"
+            ],
+            "DUMMY_values": [],
+            "status": "not_replaced",
+            "total_replacements": 0,
+            "replacements": [
+                {
+                    "Original": "03/04/2024",
+                    "DUMMY": "",
+                    "replaced": false,
+                    "replacement_count": 0,
+                    "dummy_index": null
+                }
+            ]
+        },
+        {
+            "category": "Date of Birth",
+            "Original_values": [
+                "11/9/1948"
+            ],
+            "DUMMY_values": [
+                "01/01/1900",
+                "12/12/1975",
+                "05/05/1990"
+            ],
+            "status": "replaced",
+            "total_replacements": 3,
+            "replacements": [
+                {
+                    "Original": "11/9/1948",
+                    "DUMMY": "01/01/1900",
+                    "replaced": true,
+                    "replacement_count": 3,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "MRN",
+            "Original_values": [
+                "20538"
+            ],
+            "DUMMY_values": [
+                "MRN-100001",
+                "MRN-200002",
+                "MRN-300003"
+            ],
+            "status": "replaced",
+            "total_replacements": 3,
+            "replacements": [
+                {
+                    "Original": "20538",
+                    "DUMMY": "MRN-100001",
+                    "replaced": true,
+                    "replacement_count": 3,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "FIN",
+            "Original_values": [
+                "n/a"
+            ],
+            "DUMMY_values": [
+                "FIN-10001",
+                "FIN-20002",
+                "FIN-30003"
+            ],
+            "status": "replaced",
+            "total_replacements": 6,
+            "replacements": [
+                {
+                    "Original": "n/a",
+                    "DUMMY": "FIN-10001",
+                    "replaced": true,
+                    "replacement_count": 6,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "Person Name",
+            "Original_values": [
+                "Sanjay Ghosh, MD",
+                "Scott P. Leary, MD",
+                "Amanda Gumbert, PA-C",
+                "Felix Regala, PA-C",
+                "Deb Updike, PA-C",
+                "Tracy Sebastian, PA-C"
+            ],
+            "DUMMY_values": [
+                "John Doe",
+                "Peter Smith",
+                "Alex Brown",
+                "Michael Taylor",
+                "David Wilson"
+            ],
+            "status": "replaced",
+            "total_replacements": 8,
+            "replacements": [
+                {
+                    "Original": "Sanjay Ghosh, MD",
+                    "DUMMY": "John Doe",
+                    "replaced": true,
+                    "replacement_count": 3,
+                    "dummy_index": 0
+                },
+                {
+                    "Original": "Scott P. Leary, MD",
+                    "DUMMY": "Peter Smith",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 1
+                },
+                {
+                    "Original": "Amanda Gumbert, PA-C",
+                    "DUMMY": "Alex Brown",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 2
+                },
+                {
+                    "Original": "Felix Regala, PA-C",
+                    "DUMMY": "Michael Taylor",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 3
+                },
+                {
+                    "Original": "Deb Updike, PA-C",
+                    "DUMMY": "David Wilson",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 4
+                },
+                {
+                    "Original": "Tracy Sebastian, PA-C",
+                    "DUMMY": "John Doe",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 0
+                }
+            ]
+        },
+        {
+            "category": "Address",
+            "Original_values": [
+                "3590 Camino DelRioN. Suite 200 San Diego, CA 92108",
+                "7625 Mesa College Drive Suite 305A San Diego, CA 92111"
+            ],
+            "DUMMY_values": [
+                "123 Main Street",
+                "45 Park Avenue",
+                "78 Elm Road",
+                "PO Box 456"
+            ],
+            "status": "replaced",
+            "total_replacements": 2,
+            "replacements": [
+                {
+                    "Original": "3590 Camino DelRioN. Suite 200 San Diego, CA 92108",
+                    "DUMMY": "123 Main Street",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 0
+                },
+                {
+                    "Original": "7625 Mesa College Drive Suite 305A San Diego, CA 92111",
+                    "DUMMY": "45 Park Avenue",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 1
+                }
+            ]
+        },
+        {
+            "category": "Phone",
+            "Original_values": [
+                "619-810-1010",
+                "619-810-1011"
+            ],
+            "DUMMY_values": [
+                "(111) 111-1111",
+                "(222) 222-2222"
+            ],
+            "status": "replaced",
+            "total_replacements": 2,
+            "replacements": [
+                {
+                    "Original": "619-810-1010",
+                    "DUMMY": "(111) 111-1111",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 0
+                },
+                {
+                    "Original": "619-810-1011",
+                    "DUMMY": "(222) 222-2222",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 1
+                }
+            ]
+        },
+        {
+            "category": "Hospital",
+            "Original_values": [
+                "Pacific Neurosurgery & Spine Medical Group Inc",
+                "Sharp emergency room"
+            ],
+            "DUMMY_values": [
+                "City Hospital",
+                "General Hospital",
+                "Regional Medical Center"
+            ],
+            "status": "replaced",
+            "total_replacements": 4,
+            "replacements": [
+                {
+                    "Original": "Pacific Neurosurgery & Spine Medical Group Inc",
+                    "DUMMY": "City Hospital",
+                    "replaced": true,
+                    "replacement_count": 3,
+                    "dummy_index": 0
+                },
+                {
+                    "Original": "Sharp emergency room",
+                    "DUMMY": "General Hospital",
+                    "replaced": true,
+                    "replacement_count": 1,
+                    "dummy_index": 1
+                }
+            ]
+        }
+    ],
+    "summary_by_category": {
+        "Doctor": {
+            "Original_count": 1,
+            "DUMMY_count": 3,
+            "status": "replaced",
+            "total_replacements": 1
+        },
+        "Patient Name": {
+            "Original_count": 1,
+            "DUMMY_count": 5,
+            "status": "replaced",
+            "total_replacements": 7
+        },
+        "RE": {
+            "Original_count": 1,
+            "DUMMY_count": 3,
+            "status": "not_replaced",
+            "total_replacements": 0
+        },
+        "DOE": {
+            "Original_count": 1,
+            "DUMMY_count": 0,
+            "status": "not_replaced",
+            "total_replacements": 0
+        },
+        "Date of Birth": {
+            "Original_count": 1,
+            "DUMMY_count": 3,
+            "status": "replaced",
+            "total_replacements": 3
+        },
+        "MRN": {
+            "Original_count": 1,
+            "DUMMY_count": 3,
+            "status": "replaced",
+            "total_replacements": 3
+        },
+        "FIN": {
+            "Original_count": 1,
+            "DUMMY_count": 3,
+            "status": "replaced",
+            "total_replacements": 6
+        },
+        "Person Name": {
+            "Original_count": 6,
+            "DUMMY_count": 5,
+            "status": "replaced",
+            "total_replacements": 8
+        },
+        "Address": {
+            "Original_count": 2,
+            "DUMMY_count": 4,
+            "status": "replaced",
+            "total_replacements": 2
+        },
+        "Phone": {
+            "Original_count": 2,
+            "DUMMY_count": 2,
+            "status": "replaced",
+            "total_replacements": 2
+        },
+        "Hospital": {
+            "Original_count": 2,
+            "DUMMY_count": 3,
+            "status": "replaced",
+            "total_replacements": 4
+        }
+    }
+}

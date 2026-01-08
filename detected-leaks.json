@@ -1,6 +1,6 @@
 {
   "leaks_found": true,
-  "total_leaks": 14,
+  "total_leaks": 12,
   "leaked_fields": [
     {
       "pii_type": "Person Name",
@@ -39,14 +39,8 @@
       "confidence": "high"
     },
     {
-      "pii_type": "Hospital",
-      "matched_text": "Pacific Neurosurgery & Spine Medical Group Inc",
-      "page": "PAGE 1",
-      "confidence": "high"
-    },
-    {
       "pii_type": "Address",
-      "matched_text": "3590 Camino DelRioN., Suite 200, San Diego, CA 92108",
+      "matched_text": "3590 Camino DelRioN. Suite 200 San Diego, CA 92108",
       "page": "PAGE 1",
       "confidence": "high"
     },
@@ -64,21 +58,15 @@
     },
     {
       "pii_type": "Address",
-      "matched_text": "7625 Mesa College Drive, Suite 305A, San Diego, CA 92111",
+      "matched_text": "7625 Mesa College Drive Suite 305A San Diego, CA 92111",
       "page": "PAGE 1",
       "confidence": "high"
     },
     {
       "pii_type": "Hospital",
-      "matched_text": "SEN TA NEUROSURGERY",
+      "matched_text": "Pacific Neurosurgery & Spine Medical Group Inc",
       "page": "PAGE 1",
       "confidence": "high"
-    },
-    {
-      "pii_type": "Date of Birth",
-      "matched_text": "01-01-1900",
-      "page": "PAGE 1",
-      "confidence": "medium"
     },
     {
       "pii_type": "Hospital",

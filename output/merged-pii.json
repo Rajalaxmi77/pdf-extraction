@@ -1,0 +1,44 @@
+{
+    "Doctor": [
+        "Brian Snook, M.D."
+    ],
+    "Patient Name": [
+        "MARTINEZ, Lelia"
+    ],
+    "RE": [
+        "MARTINEZ, Lelia"
+    ],
+    "DOE": [
+        "03/04/2024"
+    ],
+    "Date of Birth": [
+        "11/9/1948"
+    ],
+    "MRN": [
+        "20538"
+    ],
+    "FIN": [
+        "n/a"
+    ],
+    "Person Name": [
+        "Sanjay Ghosh, MD",
+        "Scott P. Leary, MD",
+        "Amanda Gumbert, PA-C",
+        "Felix Regala, PA-C",
+        "Deb Updike, PA-C",
+        "Tracy Sebastian, PA-C"
+    ],
+    "Address": [
+        "3590 Camino DelRioN. Suite 200 San Diego, CA 92108",
+        "7625 Mesa College Drive Suite 305A San Diego, CA 92111",
+        "2400 E. 8th Street, Suite A National City, CA 91950"
+    ],
+    "Phone": [
+        "619-810-1010",
+        "619-810-1011"
+    ],
+    "Hospital": [
+        "Pacific Neurosurgery & Spine Medical Group Inc",
+        "Sharp emergency room"
+    ]
+}

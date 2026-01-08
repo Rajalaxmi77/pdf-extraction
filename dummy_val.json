@@ -36,14 +36,12 @@
 
   "NAME": [
     "John Doe",
-    "Peter Smith",
     "Alex Brown",
     "Michael Taylor",
     "David Wilson"
   ],
 
   "Patient": [
-    "John Doe",
     "Peter Smith",
     "Alex Brown",
     "Michael Taylor",
@@ -203,6 +201,10 @@
     "Dr. Laura Adams",
     "Dr. Henry Scott"
   ],
+  "Supervising Physician": [
+    "Dr. Laura Adams",
+    "Dr. Henry Scott"
+  ],
 
   "Payor": [
     "ABC Insurance",
@@ -265,6 +267,7 @@
 
   "Doctor": [
     "Dr. John Smith",
+    "Areen steve",
     "Dr. Alice Brown",
     "Dr. Mark Wilson"
   ],

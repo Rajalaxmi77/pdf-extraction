@@ -1,25 +1,23 @@
 PII SANITIZATION SUMMARY
 ============================================================
 
-Timestamp: 2026-01-07 19:11:53
-Total PII categories: 13
-Total PII values: 23
+Timestamp: 2026-01-08 09:14:10
+Total PII categories: 11
+Total PII values: 19
 Categories replaced: 9
-Categories not replaced: 3
-Total replacements made: 33
+Categories not replaced: 1
+Total replacements made: 36
 
 REPLACEMENT DETAILS BY CATEGORY:
 ------------------------------------------------------------
-✓ Doctor: 1 values, 3 replacements
+✓ Doctor: 1 values, 1 replacements
 ✓ Patient Name: 1 values, 7 replacements
-✗ Patient : 1 values, 0 replacements
 ✗ RE: 1 values, 0 replacements
-✓ Date of Birth: 2 values, 3 replacements
+✗ DOE: 1 values, 0 replacements
+✓ Date of Birth: 1 values, 3 replacements
 ✓ MRN: 1 values, 3 replacements
 ✓ FIN: 1 values, 6 replacements
-✓ Hospital: 3 values, 4 replacements
-✓ PH: 1 values, 1 replacements
-✓ FX: 1 values, 1 replacements
-✓ Person Name: 6 values, 5 replacements
-✗ Address: 2 values, 0 replacements
-✗ Phone: 2 values, 0 replacements
+✓ Person Name: 6 values, 8 replacements
+✓ Address: 2 values, 2 replacements
+✓ Phone: 2 values, 2 replacements
+✓ Hospital: 2 values, 4 replacements

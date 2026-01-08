@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "total_pairs": 17,
+    "replaced_count": 0,
+    "unique_replaced": 0
+  },
+  "mappings": [
+    {
+      "category": "Doctor",
+      "original": "Brian Snook, M.D.",
+      "replaced": "Dr. John Smith"
+    },
+    {
+      "category": "Patient Name",
+      "original": "MARTINEZ, Lelia",
+      "replaced": "John Doe"
+    },
+    {
+      "category": "RE",
+      "original": "MARTINEZ, Lelia",
+      "replaced": "John Doe"
+    },
+    {
+      "category": "Date of Birth",
+      "original": "11/9/1948",
+      "replaced": "01/01/1900"
+    },
+    {
+      "category": "MRN",
+      "original": "20538",
+      "replaced": "MRN-100001"
+    },
+    {
+      "category": "FIN",
+      "original": "n/a",
+      "replaced": "FIN-10001"
+    },
+    {
+      "category": "Person Name",
+      "original": "Sanjay Ghosh, MD",
+      "replaced": "John Doe"
+    },
+    {
+      "category": "Person Name",
+      "original": "Scott P. Leary, MD",
+      "replaced": "Peter Smith"
+    },
+    {
+      "category": "Person Name",
+      "original": "Amanda Gumbert, PA-C",
+      "replaced": "Alex Brown"
+    },
+    {
+      "category": "Person Name",
+      "original": "Felix Regala, PA-C",
+      "replaced": "Michael Taylor"
+    },
+    {
+      "category": "Person Name",
+      "original": "Deb Updike, PA-C",
+      "replaced": "David Wilson"
+    },
+    {
+      "category": "Address",
+      "original": "3590 Camino DelRioN. Suite 200 San Diego, CA 92108",
+      "replaced": "123 Main Street"
+    },
+    {
+      "category": "Address",
+      "original": "7625 Mesa College Drive Suite 305A San Diego, CA 92111",
+      "replaced": "45 Park Avenue"
+    },
+    {
+      "category": "Address",
+      "original": "2400 E. 8th Street, Suite A National City, CA 91950",
+      "replaced": "78 Elm Road"
+    },
+    {
+      "category": "Phone",
+      "original": "619-810-1010",
+      "replaced": "(111) 111-1111"
+    },
+    {
+      "category": "Phone",
+      "original": "619-810-1011",
+      "replaced": "(222) 222-2222"
+    },
+    {
+      "category": "Hospital",
+      "original": "Pacific Neurosurgery & Spine Medical Group Inc",
+      "replaced": "City Hospital"
+    },
+    {
+      "category": "Hospital",
+      "original": "Sharp emergency room",
+      "replaced": "General Hospital"
+    },
+    {
+      "category": "DOE",
+      "original": "03/04/2024",
+      "replaced": "00/00/0000"
+    }
+  ],
+  "timestamp": "2026-01-08T09:14:13.952496",
+  "final_pii_check": {
+    "total_pii_found": 1,
+    "total_occurrences": 1,
+    "categories_with_pii": [
+      "DOE"
+    ]
+  }
+}
